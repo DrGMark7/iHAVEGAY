@@ -1,0 +1,2774 @@
+[
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 5600X 3.7 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20210825104649_43471_21_2.jpg",
+    "price": "4,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores  / 12 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "no",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores  / 12 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "no",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-12400F 2.5 GHz (SOCKET LGA 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022010509243450623_1.jpg",
+    "price": "3,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "6 (6P) Cores / 12 Threads",
+        "Frequency": "2.5 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "7.5 MB",
+        "Cache L3": "18 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "6 (6P) Cores / 12 Threads",
+        "Frequency": "2.5 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "7.5 MB",
+        "Cache L3": "18 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-10400F 2.9 GHz (SOCKET LGA 1200)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2020060310001739905_1.png",
+    "price": "3,660",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "2.9 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "no",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "12 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "2.9 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "no",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "12 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-10400 2.9 GHz (SOCKET LGA 1200)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2020051316574639061_1.png",
+    "price": "4,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "2.9 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 630",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "12 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "2.9 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 630",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "12 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-13500 - 14C 20T 1.8-4.8GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022122610182056974_1.jpg",
+    "price": "8,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 2.50 GHz Efficient-core Base Frequency : 1.80 GHz",
+        "Turbo": "Max Turbo Frequency : 4.80 GHz Performance-core Max Turbo Frequency : 4.80 GHz Efficient-core Max Turbo Frequency : 3.50 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "11.5 MB",
+        "Cache L3": "24 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 2.50 GHz Efficient-core Base Frequency : 1.80 GHz",
+        "Turbo": "Max Turbo Frequency : 4.80 GHz Performance-core Max Turbo Frequency : 4.80 GHz Efficient-core Max Turbo Frequency : 3.50 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "11.5 MB",
+        "Cache L3": "24 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I3-12100F 3.3 GHz (SOCKET LGA 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022010508500650622_1.jpg",
+    "price": "2,850",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i3",
+        "Brand": "Intel",
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "4 (4P) Cores / 8 Threads",
+        "Frequency": "3.3 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i3",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "4 (4P) Cores / 8 Threads",
+        "Frequency": "3.3 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 3 3200G 3.6 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20210827130806_34578_23_1.jpg",
+    "price": "1,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 3",
+        "Brand": "AMD",
+        "Socket": "AM4 (3000 G-Series - Picasso)",
+        "CPU Core / Thread": "4 Cores / 4 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "4.0 GHz",
+        "Integrated Graphics": "AMD Radeon Vega 8 Graphics",
+        "Architecture": "12 nm",
+        "Cache L2": "2 MB",
+        "Cache L3": "4 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 3",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (3000 G-Series - Picasso)",
+        "CPU Core / Thread": "4 Cores / 4 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "4.0 GHz",
+        "Integrated Graphics": "AMD Radeon Vega 8 Graphics",
+        "Architecture": "12 nm",
+        "Cache L2": "2 MB",
+        "Cache L3": "4 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 3400G 3.7 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20191120170459_34586_24_1.png",
+    "price": "2,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (3000 G-Series - Picasso)",
+        "CPU Core / Thread": "4 Cores / 8 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.2 GHz",
+        "Integrated Graphics": "AMD Radeon RX Vega 11 Graphics",
+        "Architecture": "12 nm",
+        "Cache L2": "2 MB",
+        "Cache L3": "4 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (3000 G-Series - Picasso)",
+        "CPU Core / Thread": "4 Cores / 8 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.2 GHz",
+        "Integrated Graphics": "AMD Radeon RX Vega 11 Graphics",
+        "Architecture": "12 nm",
+        "Cache L2": "2 MB",
+        "Cache L3": "4 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 5600G 3.9 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20210825151834_47944_21_1.jpg",
+    "price": "4,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.9 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.9 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 7800X3D 4.2 GHz (SOCKET AM5) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023041914270158961_1.jpg",
+    "price": "17,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "4.2 GHz",
+        "Turbo": "5.0 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "96 MB",
+        "TDP": "120 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "4.2 GHz",
+        "Turbo": "5.0 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "96 MB",
+        "TDP": "120 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-12400 2.5 GHz (SOCKET LGA 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022010509312850624_1.jpg",
+    "price": "4,980",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "6 (6P) Cores / 12 Threads",
+        "Frequency": "2.5 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 730",
+        "Architecture": "Intel 7",
+        "Cache L2": "7.5 MB",
+        "Cache L3": "18 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "6 (6P) Cores / 12 Threads",
+        "Frequency": "2.5 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 730",
+        "Architecture": "Intel 7",
+        "Cache L2": "7.5 MB",
+        "Cache L3": "18 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-13400F - 10C 16T 1.8-4.6GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022122610011856972_1.jpg",
+    "price": "5,290",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.50 GHz Efficient-core Base Frequency : 1.80 GHz",
+        "Turbo": "Max Turbo Frequency : 4.60 GHz Performance-core Max Turbo Frequency : 4.60 GHz Efficient-core Max Turbo Frequency : 3.30 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.50 GHz Efficient-core Base Frequency : 1.80 GHz",
+        "Turbo": "Max Turbo Frequency : 4.60 GHz Performance-core Max Turbo Frequency : 4.60 GHz Efficient-core Max Turbo Frequency : 3.30 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 5700G 3.8 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20210825152410_47945_21_2.jpg",
+    "price": "7,290",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.8 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "4 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.8 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "4 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 5600 3.5 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022040514151552538_1.jpg",
+    "price": "3,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.5 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "3 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.5 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "3 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 7600X 4.7 GHz (SOCKET AM5) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022092611052955401_1.jpg",
+    "price": "8,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "4.7 GHz",
+        "Turbo": "5.3 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "105 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "4.7 GHz",
+        "Turbo": "5.3 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "105 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-12700K 3.6 GHz (SOCKET LGA 1700) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021102715324149470_1.png",
+    "price": "10,400",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "12 (8P+4E) Cores / 20 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "5.0 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 770",
+        "Architecture": "Intel 7",
+        "Cache L2": "12 MB",
+        "Cache L3": "25 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "12 (8P+4E) Cores / 20 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "5.0 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 770",
+        "Architecture": "Intel 7",
+        "Cache L2": "12 MB",
+        "Cache L3": "25 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD ATHLON 3000G 3.5 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20210827132430_35827_23_1.jpg",
+    "price": "1,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Athlon",
+        "Brand": "AMD",
+        "Socket": "AM4 (Athlon)",
+        "CPU Core / Thread": "2 Cores / 4 Threads",
+        "Frequency": "3.5 GHz",
+        "Turbo": "-",
+        "Integrated Graphics": "AMD Radeon Vega 3 Graphics",
+        "Architecture": "14 nm",
+        "Cache L2": "1 MB",
+        "Cache L3": "4 MB",
+        "TDP": "35 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Athlon",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (Athlon)",
+        "CPU Core / Thread": "2 Cores / 4 Threads",
+        "Frequency": "3.5 GHz",
+        "Turbo": "-",
+        "Integrated Graphics": "AMD Radeon Vega 3 Graphics",
+        "Architecture": "14 nm",
+        "Cache L2": "1 MB",
+        "Cache L3": "4 MB",
+        "TDP": "35 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 4500 3.6 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022050310524952893_1.jpg",
+    "price": "2,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "4.1 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "3 MB",
+        "Cache L3": "8 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "4.1 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "3 MB",
+        "Cache L3": "8 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-13700K - 16C 24T 2.5-5.4GHz (INTEL SOCKET 1700) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022092909541955462_1.jpg",
+    "price": "14,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 16 # of Performance-cores : 8 # of Efficient-cores : 8 Total Threads : 24",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz Efficient-core Base Frequency : 2.50 GHz",
+        "Turbo": "Max Turbo Frequency : 5.40 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.40 GHz Performance-core Max Turbo Frequency : 5.30 GHz Efficient-core Max Turbo Frequency : 4.20 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.60 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "24 MB",
+        "Cache L3": "30 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 16 # of Performance-cores : 8 # of Efficient-cores : 8 Total Threads : 24",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz Efficient-core Base Frequency : 2.50 GHz",
+        "Turbo": "Max Turbo Frequency : 5.40 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.40 GHz Performance-core Max Turbo Frequency : 5.30 GHz Efficient-core Max Turbo Frequency : 4.20 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.60 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "24 MB",
+        "Cache L3": "30 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-12700F 2.1 GHz (SOCKET LGA 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022010510074050627_1.jpg",
+    "price": "9,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "12 (8P+4E) Cores / 20 Threads",
+        "Frequency": "2.1 GHz",
+        "Turbo": "4.9 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "12 MB",
+        "Cache L3": "25 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "12 (8P+4E) Cores / 20 Threads",
+        "Frequency": "2.1 GHz",
+        "Turbo": "4.9 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "12 MB",
+        "Cache L3": "25 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 5500 3.6 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022040514004252535_1.jpg",
+    "price": "2,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "4.2 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.6 GHz",
+        "Turbo": "4.2 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-14700K - 20C 28T 2.5-5.6GHz (INTEL SOCKET 1700) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023101615255663038_1.png",
+    "price": "14,100",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 3.4 GHz Efficient-core Base Frequency : 2.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.6 GHz Intel® Turbo Boost Max Technology 3.0 Frequency ‡ : 5.6 GHz Performance-core Max Turbo Frequency : 5.5 GHz Efficient-core Max Turbo Frequency : 4.3 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.6 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 3.4 GHz Efficient-core Base Frequency : 2.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.6 GHz Intel® Turbo Boost Max Technology 3.0 Frequency ‡ : 5.6 GHz Performance-core Max Turbo Frequency : 5.5 GHz Efficient-core Max Turbo Frequency : 4.3 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.6 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-12700 2.1 GHz (SOCKET LGA 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022011316503150843_1.jpg",
+    "price": "10,200",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "12 (8P+4E) Cores / 20 Threads",
+        "Frequency": "2.1 GHz",
+        "Turbo": "4.9 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 770",
+        "Architecture": "Intel 7",
+        "Cache L2": "12 MB",
+        "Cache L3": "25 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "12 (8P+4E) Cores / 20 Threads",
+        "Frequency": "2.1 GHz",
+        "Turbo": "4.9 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 770",
+        "Architecture": "Intel 7",
+        "Cache L2": "12 MB",
+        "Cache L3": "25 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 5700X 3.4 GHz (SOCKET AM4) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022040514204652539_1.jpg",
+    "price": "7,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.4 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "4 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.4 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "7 nm",
+        "Cache L2": "4 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 4600G 3.7 GHz (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230913163526_53370_344_1.jpg",
+    "price": "3,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (4000 G-Series - Renoir)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.2 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "8 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (4000 G-Series - Renoir)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.2 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "8 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I3-12100 3.3 GHz (SOCKET LGA 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022021010031651545_1.jpg",
+    "price": "3,740",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i3",
+        "Brand": "Intel",
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "4 (4P) Cores / 8 Threads",
+        "Frequency": "3.3 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 730",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "60 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i3",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (12th Gen - Alder Lake)",
+        "CPU Core / Thread": "4 (4P) Cores / 8 Threads",
+        "Frequency": "3.3 GHz",
+        "Turbo": "4.3 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 730",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "60 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 7600 3.8 GHz (SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230111142106_57299_66_1.jpg",
+    "price": "7,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.8 GHz",
+        "Turbo": "5.1 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "6 Cores / 12 Threads",
+        "Frequency": "3.8 GHz",
+        "Turbo": "5.1 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-14500 - 14C 20T 1.9-5.0GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024010614385764701_1.jpg",
+    "price": "8,840",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 2.6 GHz Efficient-core Base Frequency : 1.9 GHz",
+        "Turbo": "Max Turbo Frequency : 5 GHz Performance-core Max Turbo Frequency : 5 GHz Efficient-core Max Turbo Frequency : 3.7 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "11.5 MB",
+        "Cache L3": "24 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 2.6 GHz Efficient-core Base Frequency : 1.9 GHz",
+        "Turbo": "Max Turbo Frequency : 5 GHz Performance-core Max Turbo Frequency : 5 GHz Efficient-core Max Turbo Frequency : 3.7 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "11.5 MB",
+        "Cache L3": "24 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 7700X 4.5 GHz (SOCKET AM5) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022092613123755402_1.jpg",
+    "price": "11,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "4.5 GHz",
+        "Turbo": "5.4 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "-",
+        "Cache L2": "8 MB",
+        "Cache L3": "32 MB",
+        "TDP": "105 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "4.5 GHz",
+        "Turbo": "5.4 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "-",
+        "Cache L2": "8 MB",
+        "Cache L3": "32 MB",
+        "TDP": "105 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I3-10105 3.7 GHz (SOCKET LGA 1200)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021050813585046521_1.png",
+    "price": "3,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i3",
+        "Brand": "Intel",
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "4 Cores / 8 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 630",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "6 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i3",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "4 Cores / 8 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.4 GHz",
+        "Integrated Graphics": "Intel UHD Graphics 630",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "6 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-13400 - 10C 16T 1.8-4.6GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022122609520956970_1.jpg",
+    "price": "6,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.50 GHz Efficient-core Base Frequency : 1.80 GHz",
+        "Turbo": "Max Turbo Frequency : 4.60 GHz Performance-core Max Turbo Frequency : 4.60 GHz Efficient-core Max Turbo Frequency : 3.30 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 730 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 24 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 1 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.50 GHz Efficient-core Base Frequency : 1.80 GHz",
+        "Turbo": "Max Turbo Frequency : 4.60 GHz Performance-core Max Turbo Frequency : 4.60 GHz Efficient-core Max Turbo Frequency : 3.30 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 730 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 24 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 1 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 9 7950X 4.5 GHz (SOCKET AM5) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022092613555155412_1.jpg",
+    "price": "20,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 9",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "16 Cores / 32 Threads",
+        "Frequency": "4.5 GHz",
+        "Turbo": "5.7 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "16 MB",
+        "Cache L3": "64 MB",
+        "TDP": "170 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 9",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "16 Cores / 32 Threads",
+        "Frequency": "4.5 GHz",
+        "Turbo": "5.7 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "16 MB",
+        "Cache L3": "64 MB",
+        "TDP": "170 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 5700X3D (SOCKET AM4) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024013016262265148_1.jpg",
+    "price": "9,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.0 GHz",
+        "Turbo": "4.1 GHz",
+        "Integrated Graphics": "-",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "4 MB",
+        "Cache L3": "96 MB",
+        "TDP": "105 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.0 GHz",
+        "Turbo": "4.1 GHz",
+        "Integrated Graphics": "-",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "4 MB",
+        "Cache L3": "96 MB",
+        "TDP": "105 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-14400F - 10C 16T 1.8-4.7GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024010614561764702_1.jpg",
+    "price": "5,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.5 GHz Efficient-core Base Frequency : 1.8 GHz",
+        "Turbo": "Max Turbo Frequency : 4.7 GHz Performance-core Max Turbo Frequency : 4.7 GHz Efficient-core Max Turbo Frequency : 3.5 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.5 GHz Efficient-core Base Frequency : 1.8 GHz",
+        "Turbo": "Max Turbo Frequency : 4.7 GHz Performance-core Max Turbo Frequency : 4.7 GHz Efficient-core Max Turbo Frequency : 3.5 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-14600K - 14C 20T 2.6-5.3GHz (INTEL SOCKET 1700) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023101615234563036_1.png",
+    "price": "9,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 3.5 GHz Efficient-core Base Frequency : 2.6 GHz",
+        "Turbo": "Max Turbo Frequency : 5.3 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "20 MB",
+        "Cache L3": "24 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 3.5 GHz Efficient-core Base Frequency : 2.6 GHz",
+        "Turbo": "Max Turbo Frequency : 5.3 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "20 MB",
+        "Cache L3": "24 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL PENTIUM GOLD G6405 4.1 GHz (SOCKET LGA 1200)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20210629133625_47414_66_1.png",
+    "price": "2,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Pentium Gold",
+        "Brand": "Intel",
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "2 Cores / 4 Threads",
+        "Frequency": "4.10 GHz",
+        "Turbo": "-",
+        "Integrated Graphics": "Intel UHD Graphics 610",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "4 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Pentium Gold",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1200  (10th Gen - Comet Lake)",
+        "CPU Core / Thread": "2 Cores / 4 Threads",
+        "Frequency": "4.10 GHz",
+        "Turbo": "-",
+        "Integrated Graphics": "Intel UHD Graphics 610",
+        "Architecture": "14 nm",
+        "Cache L2": "-",
+        "Cache L3": "4 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I3-13100 - 4C 8T 3.4-4.5GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022122609291156966_1.jpg",
+    "price": "4,250",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i3",
+        "Brand": "Intel",
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 4 # of Performance-cores : 4 # of Efficient-cores : 0 Total Threads : 8",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz",
+        "Turbo": "Max Turbo Frequency : 4.50 GHz Performance-core Max Turbo Frequency : 4.50 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 730 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.5 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 24 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 1 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "60 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i3",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 4 # of Performance-cores : 4 # of Efficient-cores : 0 Total Threads : 8",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz",
+        "Turbo": "Max Turbo Frequency : 4.50 GHz Performance-core Max Turbo Frequency : 4.50 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 730 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.5 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 24 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 1 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "60 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I3-13100F - 4C 8T 3.4-4.5GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022122609455856968_1.jpg",
+    "price": "3,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i3",
+        "Brand": "Intel",
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 4 # of Performance-cores : 4 # of Efficient-cores : 0 Total Threads : 8",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz",
+        "Turbo": "Max Turbo Frequency : 4.50 GHz Performance-core Max Turbo Frequency : 4.50 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i3",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 4 # of Performance-cores : 4 # of Efficient-cores : 0 Total Threads : 8",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz",
+        "Turbo": "Max Turbo Frequency : 4.50 GHz Performance-core Max Turbo Frequency : 4.50 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-14700 - 20C 28T 1.5-5.4GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024010614320164700_1.jpg",
+    "price": "11,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 2.1 GHz Efficient-core Base Frequency : 1.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.4 GHz Intel® Turbo Boost Max Technology 3.0 Frequency ‡ : 5.4 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4.2 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.6 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 2.1 GHz Efficient-core Base Frequency : 1.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.4 GHz Intel® Turbo Boost Max Technology 3.0 Frequency ‡ : 5.4 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4.2 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 770 Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.6 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 32 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 2 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-13700KF - 16C 24T 2.5-5.4GHz (INTEL SOCKET 1700) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022092910030055463_1.jpg",
+    "price": "14,500",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 16 # of Performance-cores : 8 # of Efficient-cores : 8 Total Threads : 24",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz Efficient-core Base Frequency : 2.50 GHz",
+        "Turbo": "Max Turbo Frequency : 5.40 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.40 GHz Performance-core Max Turbo Frequency : 5.30 GHz Efficient-core Max Turbo Frequency : 4.20 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "24 MB",
+        "Cache L3": "30 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (13th Gen - Raptor Lake)",
+        "CPU Core / Thread": "Total Cores : 16 # of Performance-cores : 8 # of Efficient-cores : 8 Total Threads : 24",
+        "Frequency": "Performance-core Base Frequency : 3.40 GHz Efficient-core Base Frequency : 2.50 GHz",
+        "Turbo": "Max Turbo Frequency : 5.40 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.40 GHz Performance-core Max Turbo Frequency : 5.30 GHz Efficient-core Max Turbo Frequency : 4.20 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "24 MB",
+        "Cache L3": "30 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 7700 3.8 GHz (SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230111142125_57302_66_1.jpg",
+    "price": "11,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.8 GHz",
+        "Turbo": "5.3 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.8 GHz",
+        "Turbo": "5.3 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-14700F - 20C 28T 1.5-5.4GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024010614174864698_1.jpg",
+    "price": "11,400",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 2.1 GHz Efficient-core Base Frequency : 1.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.4 GHz Intel® Turbo Boost Max Technology 3.0 Frequency ‡ : 5.4 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4.2 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 2.1 GHz Efficient-core Base Frequency : 1.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.4 GHz Intel® Turbo Boost Max Technology 3.0 Frequency ‡ : 5.4 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4.2 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 9 7900 3.7 GHz (SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230111142142_57303_66_1.jpg",
+    "price": "14,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 9",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "12 Cores / 24 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "5.4 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "12 MB",
+        "Cache L3": "64 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 9",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "12 Cores / 24 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "5.4 GHz",
+        "Integrated Graphics": "AMD Radeon Graphics",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "12 MB",
+        "Cache L3": "64 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I7-14700KF - 20C 28T 2.5-5.6GHz (INTEL SOCKET 1700) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023101615260863039_1.png",
+    "price": "13,200",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i7",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 3.4 GHz Efficient-core Base Frequency : 2.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.6 GHz Intel Turbo Boost Max Technology 3.0 Frequency ‡ : 5.6 GHz Performance-core Max Turbo Frequency : 5.5 GHz Efficient-core Max Turbo Frequency : 4.3 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 28",
+        "Frequency": "Performance-core Base Frequency : 3.4 GHz Efficient-core Base Frequency : 2.5 GHz",
+        "Turbo": "Max Turbo Frequency : 5.6 GHz Intel Turbo Boost Max Technology 3.0 Frequency ‡ : 5.6 GHz Performance-core Max Turbo Frequency : 5.5 GHz Efficient-core Max Turbo Frequency : 4.3 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "28 MB",
+        "Cache L3": "33 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 8500G (SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024013116481665211_1.jpg",
+    "price": "6,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 3.5 GHz Zen4 Base Clock : 4.1 GHz Zen4c Base Clock : 3.2 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.0 GHz Max Zen4c Clock : Up to 3.7 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon 740M Graphics Core Count : 4 Graphics Frequency : 2800 MHz DirectX Version : 12 DisplayPort Version : 2.1 DisplayPort Max Refresh Rates (SDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz DisplayPort Max Refresh Rates (HDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz HDMI Version : 2.1",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 3.5 GHz Zen4 Base Clock : 4.1 GHz Zen4c Base Clock : 3.2 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.0 GHz Max Zen4c Clock : Up to 3.7 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon 740M Graphics Core Count : 4 Graphics Frequency : 2800 MHz DirectX Version : 12 DisplayPort Version : 2.1 DisplayPort Max Refresh Rates (SDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz DisplayPort Max Refresh Rates (HDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz HDMI Version : 2.1",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 8700G (SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024013116015665208_1.jpg",
+    "price": "11,090",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 8 # of Threads : 16",
+        "Frequency": "Base Clock : 4.2 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.1 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon 780M Graphics Core Count : 12 Graphics Frequency : 2900 MHz DirectX Version : 12 DisplayPort Version : 2.1 DisplayPort Max Refresh Rates (SDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz DisplayPort Max Refresh Rates (HDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz HDMI Version : 2.1",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 8 # of Threads : 16",
+        "Frequency": "Base Clock : 4.2 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.1 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon 780M Graphics Core Count : 12 Graphics Frequency : 2900 MHz DirectX Version : 12 DisplayPort Version : 2.1 DisplayPort Max Refresh Rates (SDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz DisplayPort Max Refresh Rates (HDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz HDMI Version : 2.1",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 9700X - 8C 16T 3.8-5.5GHz (AMD SOCKET AM5) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024080913502769752_1.jpg",
+    "price": "13,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM5 (9000 Series - Granite Ridge)",
+        "CPU Core / Thread": "# of CPU Cores : 8 # of Threads : 16",
+        "Frequency": "3.8 GHz",
+        "Turbo": "Up to 5.5 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon Graphics Graphics Core Count : 2 Graphics Frequency : 2200 MHz USB Type-C DisplayPort Alternate Mode : Yes",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (9000 Series - Granite Ridge)",
+        "CPU Core / Thread": "# of CPU Cores : 8 # of Threads : 16",
+        "Frequency": "3.8 GHz",
+        "Turbo": "Up to 5.5 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon Graphics Graphics Core Count : 2 Graphics Frequency : 2200 MHz USB Type-C DisplayPort Alternate Mode : Yes",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-14400 - 10C 16T 1.8-4.7GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024010615364964703_1.jpg",
+    "price": "6,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.5 GHz Efficient-core Base Frequency : 1.8 GHz",
+        "Turbo": "Max Turbo Frequency : 4.7 GHz Performance-core Max Turbo Frequency : 4.7 GHz Efficient-core Max Turbo Frequency : 3.5 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 730 Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 24 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 1 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 16",
+        "Frequency": "Performance-core Base Frequency : 2.5 GHz Efficient-core Base Frequency : 1.8 GHz",
+        "Turbo": "Max Turbo Frequency : 4.7 GHz Performance-core Max Turbo Frequency : 4.7 GHz Efficient-core Max Turbo Frequency : 3.5 GHz",
+        "Integrated Graphics": "GPU Name : Intel UHD Graphics 730 Graphics Max Dynamic Frequency : 1.55 GHz Graphics Output : eDP 1.4b, DP 1.4a, HDMI 2.1 Execution Units : 24 Max Resolution (HDMI) : 4096 x 2160 @ 60Hz Max Resolution (DP) : 7680 x 4320 @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 5120 x 3200 @ 120Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3.0 Multi-Format Codec Engines : 1 Intel Quick Sync Video : Yes Intel Clear Video HD Technology : Yes # of Displays Supported : 4",
+        "Architecture": "Intel 7",
+        "Cache L2": "9.5 MB",
+        "Cache L3": "20 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I5-14600KF - 14C 20T 2.6-5.3GHz (INTEL SOCKET 1700) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023101615254163037_1.png",
+    "price": "10,500",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i5",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 3.5 GHz Efficient-core Base Frequency : 2.6 GHz",
+        "Turbo": "Max Turbo Frequency : 5.3 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "20 MB",
+        "Cache L3": "24 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "5 Years"
+      },
+      "model": {
+        "Model": "Core i5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 3.5 GHz Efficient-core Base Frequency : 2.6 GHz",
+        "Turbo": "Max Turbo Frequency : 5.3 GHz Performance-core Max Turbo Frequency : 5.3 GHz Efficient-core Max Turbo Frequency : 4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "20 MB",
+        "Cache L3": "24 MB",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 8600G (SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024013116182465209_1.jpg",
+    "price": "7,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 4.3 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.0 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon 760M Graphics Core Count : 8 Graphics Frequency : 2800 MHz DirectX Version : 12 DisplayPort Version : 2.1 DisplayPort Max Refresh Rates (SDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz DisplayPort Max Refresh Rates (HDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz HDMI Version : 2.1",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 4.3 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.0 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon 760M Graphics Core Count : 8 Graphics Frequency : 2800 MHz DirectX Version : 12 DisplayPort Version : 2.1 DisplayPort Max Refresh Rates (SDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz DisplayPort Max Refresh Rates (HDR) • 7680x4320 @ 60Hz • 3840x2160 @ 240Hz • 3440x1440 @ 360Hz • 2560x1440 @ 480Hz • 1920x1080 @ 600Hz HDMI Version : 2.1",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 7500F - 6C 12T 3.7-5.0GHz (AMD SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20240801150411_69543_66_1.jpg",
+    "price": "6,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "3.7 GHz",
+        "Turbo": "5.0 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (7000 Series - Raphael)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "3.7 GHz",
+        "Turbo": "5.0 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "TSMC 5nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 9600X - 6C 12T 3.9-5.4GHz (AMD SOCKET AM5) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024080913172569751_1.jpg",
+    "price": "10,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM5 (9000 Series - Granite Ridge)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "3.9 GHz",
+        "Turbo": "Up to 5.4 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon Graphics Graphics Core Count : 2 Graphics Frequency : 2200 MHz USB Type-C DisplayPort Alternate Mode : Yes",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (9000 Series - Granite Ridge)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "3.9 GHz",
+        "Turbo": "Up to 5.4 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon Graphics Graphics Core Count : 2 Graphics Frequency : 2200 MHz USB Type-C DisplayPort Alternate Mode : Yes",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "32 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 5700 (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024013017025665152_1.jpg",
+    "price": "5,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "-",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "4 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 Series - Vermeer / Cezanne)",
+        "CPU Core / Thread": "8 Cores / 16 Threads",
+        "Frequency": "3.7 GHz",
+        "Turbo": "4.6 GHz",
+        "Integrated Graphics": "-",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "4 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE ULTRA 7 265K - 20C 20T 3.3-5.5GHz (INTEL SOCKET 1851) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024100909443071188_1.jpg",
+    "price": "14,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core Ultra 7",
+        "Brand": "Intel",
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 3.9 GHz Efficient-core Base Frequency : 3.3 GHz",
+        "Turbo": "Max Turbo Frequency : 5.5 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.5 GHz Performance-core Max Turbo Frequency : 5.4 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "GPU Name : Intel Graphics Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 2 GHz GPU Peak TOPS (Int8) : 8 Graphics Output : DP2.1 UHBR20, HDM2.1 FRL 12GHz, eDP1.4b Xe-cores : 4 Max Resolution (HDMI) : 4K @ 60Hz (HDMI 2.1 TMDS) 8K @ 60Hz (HDMI2.1 FRL) Max Resolution (DP) : 8K @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 4K @ 60Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3 Intel Quick Sync Video : Yes # of Displays Supported : 4 Device ID : 0x7D67 Intel Deep Learning Boost (Intel DL Boost) on GPU : Yes",
+        "Architecture": "-",
+        "Cache L2": "36 MB",
+        "Cache L3": "30 MB Intel Smart Cache",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core Ultra 7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 3.9 GHz Efficient-core Base Frequency : 3.3 GHz",
+        "Turbo": "Max Turbo Frequency : 5.5 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.5 GHz Performance-core Max Turbo Frequency : 5.4 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "GPU Name : Intel Graphics Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 2 GHz GPU Peak TOPS (Int8) : 8 Graphics Output : DP2.1 UHBR20, HDM2.1 FRL 12GHz, eDP1.4b Xe-cores : 4 Max Resolution (HDMI) : 4K @ 60Hz (HDMI 2.1 TMDS) 8K @ 60Hz (HDMI2.1 FRL) Max Resolution (DP) : 8K @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 4K @ 60Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3 Intel Quick Sync Video : Yes # of Displays Supported : 4 Device ID : 0x7D67 Intel Deep Learning Boost (Intel DL Boost) on GPU : Yes",
+        "Architecture": "-",
+        "Cache L2": "36 MB",
+        "Cache L3": "30 MB Intel Smart Cache",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 5500GT (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024013114435665201_1.JPG",
+    "price": "4,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 3.6 GHz",
+        "Turbo": "Max. Boost Clock : Up to 4.4 GHz",
+        "Integrated Graphics": "Graphics Model : Radeon Graphics Graphics Core Count : 7 Graphics Frequency : 1900 MHz",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 3.6 GHz",
+        "Turbo": "Max. Boost Clock : Up to 4.4 GHz",
+        "Integrated Graphics": "Graphics Model : Radeon Graphics Graphics Core Count : 7 Graphics Frequency : 1900 MHz",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 9 9900X - 12C 24T 4.4-5.6GHz (AMD SOCKET AM5) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024081408465069823_1.jpg",
+    "price": "17,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 9",
+        "Brand": "AMD",
+        "Socket": "AM5 (9000 Series - Granite Ridge)",
+        "CPU Core / Thread": "# of CPU Cores : 12 # of Threads : 24",
+        "Frequency": "4.4 GHz",
+        "Turbo": "Up to 5.6 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon Graphics Graphics Core Count : 2 Graphics Frequency : 2200 MHz USB Type-C DisplayPort Alternate Mode : Yes",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "12 MB",
+        "Cache L3": "64 MB",
+        "TDP": "120 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 9",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (9000 Series - Granite Ridge)",
+        "CPU Core / Thread": "# of CPU Cores : 12 # of Threads : 24",
+        "Frequency": "4.4 GHz",
+        "Turbo": "Up to 5.6 GHz",
+        "Integrated Graphics": "Graphics Model : AMD Radeon Graphics Graphics Core Count : 2 Graphics Frequency : 2200 MHz USB Type-C DisplayPort Alternate Mode : Yes",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "12 MB",
+        "Cache L3": "64 MB",
+        "TDP": "120 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 8400F - 6C 12T 4.2-4.7GHz (AMD SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024060511023667749_1.jpg",
+    "price": "5,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 4.2 GHz",
+        "Turbo": "Max. Boost Clock : Up to 4.7 GHz",
+        "Integrated Graphics": "Discrete graphics required, No integrated graphics",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 4.2 GHz",
+        "Turbo": "Max. Boost Clock : Up to 4.7 GHz",
+        "Integrated Graphics": "Discrete graphics required, No integrated graphics",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "6 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE I3-14100F - 4C 8T 3.5-4.7GHz (INTEL SOCKET 1700)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024010615460964705_1.jpg",
+    "price": "3,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core i3",
+        "Brand": "Intel",
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 4 # of Performance-cores : 4 # of Efficient-cores : 0 Total Threads : 8",
+        "Frequency": "Performance-core Base Frequency : 3.5 GHz",
+        "Turbo": "Max Turbo Frequency : 4.7 GHz Performance-core Max Turbo Frequency : 4.7 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core i3",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1700 (14th Gen - Raptor Lake Refresh)",
+        "CPU Core / Thread": "Total Cores : 4 # of Performance-cores : 4 # of Efficient-cores : 0 Total Threads : 8",
+        "Frequency": "Performance-core Base Frequency : 3.5 GHz",
+        "Turbo": "Max Turbo Frequency : 4.7 GHz Performance-core Max Turbo Frequency : 4.7 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "Intel 7",
+        "Cache L2": "5 MB",
+        "Cache L3": "12 MB",
+        "TDP": "58 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 5 5600GT (SOCKET AM4)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024013114232465197_1.JPG",
+    "price": "4,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD",
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 3.6 GHz",
+        "Turbo": "Max. Boost Clock : Up to 4.6 GHz",
+        "Integrated Graphics": "Graphics Model : Radeon Graphics Graphics Core Count : 7 Graphics Frequency : 1900 MHz",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 5",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM4 (5000 G-Series - Cezanne)",
+        "CPU Core / Thread": "# of CPU Cores : 6 # of Threads : 12",
+        "Frequency": "Base Clock : 3.6 GHz",
+        "Turbo": "Max. Boost Clock : Up to 4.6 GHz",
+        "Integrated Graphics": "Graphics Model : Radeon Graphics Graphics Core Count : 7 Graphics Frequency : 1900 MHz",
+        "Architecture": "TSMC 7nm FinFET",
+        "Cache L2": "3 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "AMD",
+    "title": "AMD RYZEN 7 8700F - 8C 16T 4.1-5.0GHz (AMD SOCKET AM5)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024060511522267756_1.jpg",
+    "price": "9,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD",
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 8 # of Threads : 16",
+        "Frequency": "Base Clock : 4.1 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.0 GHz",
+        "Integrated Graphics": "Discrete graphics required, No integrated graphics",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Ryzen 7",
+        "Brand": "AMD"
+      },
+      "specification": {
+        "Socket": "AM5 (8000 / 8000 G Series - Phoenix)",
+        "CPU Core / Thread": "# of CPU Cores : 8 # of Threads : 16",
+        "Frequency": "Base Clock : 4.1 GHz",
+        "Turbo": "Max. Boost Clock : Up to 5.0 GHz",
+        "Integrated Graphics": "Discrete graphics required, No integrated graphics",
+        "Architecture": "TSMC 4nm FinFET",
+        "Cache L2": "8 MB",
+        "Cache L3": "16 MB",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE ULTRA 5 245KF - 14C 14T 3.6-5.2GHz (INTEL SOCKET 1851) (ระบบระบายความร้อนไม่รวมอยู่ในสินค้า / CPU COOLER NOT INCLUDED)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024100909155571186_1.jpg",
+    "price": "10,800",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel",
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 14",
+        "Frequency": "Performance-core Base Frequency : 4.2 GHz Efficient-core Base Frequency : 3.6 GHz",
+        "Turbo": "Max Turbo Frequency : 5.2 GHz Performance-core Max Turbo Frequency : 5.2 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "-",
+        "Cache L2": "26 MB",
+        "Cache L3": "24 MB Intel Smart Cache",
+        "TDP": "125 W",
+        "CPU Cooler": "No",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 14",
+        "Frequency": "Performance-core Base Frequency : 4.2 GHz Efficient-core Base Frequency : 3.6 GHz",
+        "Turbo": "Max Turbo Frequency : 5.2 GHz Performance-core Max Turbo Frequency : 5.2 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "-",
+        "Cache L2": "26 MB",
+        "Cache L3": "24 MB Intel Smart Cache",
+        "TDP": "125 W",
+        "CPU Cooler": "No"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE ULTRA 5 225F - 10C 10T 3.3-4.9GHz (INTEL SOCKET 1851)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20250206131531_73576_66_1.jpg",
+    "price": "8,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel",
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 10",
+        "Frequency": "Performance-core Base Frequency : 3.3 GHz Efficient-core Base Frequency : 2.7 GHz",
+        "Turbo": "Max Turbo Frequency : 4.9 GHz Performance-core Max Turbo Frequency : 4.9 GHz Efficient-core Max Turbo Frequency : 4.4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "-",
+        "Cache L2": "22 MB",
+        "Cache L3": "20 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 10",
+        "Frequency": "Performance-core Base Frequency : 3.3 GHz Efficient-core Base Frequency : 2.7 GHz",
+        "Turbo": "Max Turbo Frequency : 4.9 GHz Performance-core Max Turbo Frequency : 4.9 GHz Efficient-core Max Turbo Frequency : 4.4 GHz",
+        "Integrated Graphics": "No",
+        "Architecture": "-",
+        "Cache L2": "22 MB",
+        "Cache L3": "20 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE ULTRA 5 235 - 14C 14T 3.4-5GHz (INTEL SOCKET 1851)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20250206131553_73578_66_1.jpg",
+    "price": "9,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel",
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 14",
+        "Frequency": "Performance-core Base Frequency : 3.4 GHz Efficient-core Base Frequency : 2.9 GHz",
+        "Turbo": "Max Turbo Frequency : 5 GHz Performance-core Max Turbo Frequency : 5 GHz Efficient-core Max Turbo Frequency : 4.4 GHz",
+        "Integrated Graphics": "Intel Graphics",
+        "Architecture": "-",
+        "Cache L2": "26 MB",
+        "Cache L3": "24 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 14 # of Performance-cores : 6 # of Efficient-cores : 8 Total Threads : 14",
+        "Frequency": "Performance-core Base Frequency : 3.4 GHz Efficient-core Base Frequency : 2.9 GHz",
+        "Turbo": "Max Turbo Frequency : 5 GHz Performance-core Max Turbo Frequency : 5 GHz Efficient-core Max Turbo Frequency : 4.4 GHz",
+        "Integrated Graphics": "Intel Graphics",
+        "Architecture": "-",
+        "Cache L2": "26 MB",
+        "Cache L3": "24 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE ULTRA 5 225 - 10C 10T 3.3-4.9GHz (INTEL SOCKET 1851)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20250206131508_73573_66_1.jpg",
+    "price": "9,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel",
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 10",
+        "Frequency": "Performance-core Base Frequency : 3.3 GHz Efficient-core Base Frequency : 2.7 GHz",
+        "Turbo": "Max Turbo Frequency : 4.9 GHz Performance-core Max Turbo Frequency : 4.9 GHz Efficient-core Max Turbo Frequency : 4.4 GHz",
+        "Integrated Graphics": "Intel Graphics",
+        "Architecture": "-",
+        "Cache L2": "22 MB",
+        "Cache L3": "20 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core Ultra 5",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 10 # of Performance-cores : 6 # of Efficient-cores : 4 Total Threads : 10",
+        "Frequency": "Performance-core Base Frequency : 3.3 GHz Efficient-core Base Frequency : 2.7 GHz",
+        "Turbo": "Max Turbo Frequency : 4.9 GHz Performance-core Max Turbo Frequency : 4.9 GHz Efficient-core Max Turbo Frequency : 4.4 GHz",
+        "Integrated Graphics": "Intel Graphics",
+        "Architecture": "-",
+        "Cache L2": "22 MB",
+        "Cache L3": "20 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE ULTRA 7 265 - 20C 20T 1.8-5.3GHz (INTEL SOCKET 1851)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2025020614114074210_1.jpg",
+    "price": "15,200",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core Ultra 7",
+        "Brand": "Intel",
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 2.4 GHz Efficient-core Base Frequency : 1.8 GHz",
+        "Turbo": "Max Turbo Frequency : 5.3 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.3 GHz Performance-core Max Turbo Frequency : 5.2 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "GPU Name : Intel Graphics Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.95 GHz GPU Peak TOPS (Int8) : 8 Graphics Output : DP2.1 UHBR20, HDM2.1 FRL 12GHz, eDP1.4b Xe-cores : 4 Max Resolution (HDMI) : 4K @ 60Hz (HDMI 2.1 TMDS) 8K @ 60Hz (HDMI2.1 FRL) Max Resolution (DP) : 8K @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 4K @ 60Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3 Intel Quick Sync Video : Yes # of Displays Supported : 4 Device ID : 0x7D67 Intel Deep Learning Boost (Intel DL Boost) on GPU : Yes",
+        "Architecture": "-",
+        "Cache L2": "36 MB",
+        "Cache L3": "30 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core Ultra 7",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 20 # of Performance-cores : 8 # of Efficient-cores : 12 Total Threads : 20",
+        "Frequency": "Performance-core Base Frequency : 2.4 GHz Efficient-core Base Frequency : 1.8 GHz",
+        "Turbo": "Max Turbo Frequency : 5.3 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.3 GHz Performance-core Max Turbo Frequency : 5.2 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "GPU Name : Intel Graphics Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 1.95 GHz GPU Peak TOPS (Int8) : 8 Graphics Output : DP2.1 UHBR20, HDM2.1 FRL 12GHz, eDP1.4b Xe-cores : 4 Max Resolution (HDMI) : 4K @ 60Hz (HDMI 2.1 TMDS) 8K @ 60Hz (HDMI2.1 FRL) Max Resolution (DP) : 8K @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 4K @ 60Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3 Intel Quick Sync Video : Yes # of Displays Supported : 4 Device ID : 0x7D67 Intel Deep Learning Boost (Intel DL Boost) on GPU : Yes",
+        "Architecture": "-",
+        "Cache L2": "36 MB",
+        "Cache L3": "30 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Intel",
+    "title": "INTEL CORE ULTRA 9 285 - 24C 24T 1.9-5.6GHz (INTEL SOCKET 1851)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2025020614365874215_1.jpg",
+    "price": "22,200",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Core Ultra 9",
+        "Brand": "Intel",
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 24 # of Performance-cores : 8 # of Efficient-cores : 16 Total Threads : 24",
+        "Frequency": "Performance-core Base Frequency : 2.5 GHz Efficient-core Base Frequency : 1.9 GHz",
+        "Turbo": "Max Turbo Frequency : 5.6 GHz Intel Thermal Velocity Boost Frequency : 5.6 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.5 GHz Performance-core Max Turbo Frequency : 5.4 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "GPU Name : Intel Graphics Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 2 GHz GPU Peak TOPS (Int8) : 8 Graphics Output : DP2.1 UHBR20, HDM2.1 FRL 12GHz, eDP1.4b Xe-cores : 4 Max Resolution (HDMI) : 4K @ 60Hz (HDMI 2.1 TMDS) 8K @ 60Hz (HDMI2.1 FRL) Max Resolution (DP) : 8K @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 4K @ 60Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3 Intel Quick Sync Video : Yes # of Displays Supported : 4 Device ID : 0x7D67 Intel Deep Learning Boost (Intel DL Boost) on GPU : Yes",
+        "Architecture": "-",
+        "Cache L2": "40 MB",
+        "Cache L3": "36 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes",
+        "Warranty": "3 Years"
+      },
+      "model": {
+        "Model": "Core Ultra 9",
+        "Brand": "Intel"
+      },
+      "specification": {
+        "Socket": "1851 (Arrow Lake)",
+        "CPU Core / Thread": "Total Cores : 24 # of Performance-cores : 8 # of Efficient-cores : 16 Total Threads : 24",
+        "Frequency": "Performance-core Base Frequency : 2.5 GHz Efficient-core Base Frequency : 1.9 GHz",
+        "Turbo": "Max Turbo Frequency : 5.6 GHz Intel Thermal Velocity Boost Frequency : 5.6 GHz Intel Turbo Boost Max Technology 3.0 Frequency : 5.5 GHz Performance-core Max Turbo Frequency : 5.4 GHz Efficient-core Max Turbo Frequency : 4.6 GHz",
+        "Integrated Graphics": "GPU Name : Intel Graphics Graphics Base Frequency : 300 MHz Graphics Max Dynamic Frequency : 2 GHz GPU Peak TOPS (Int8) : 8 Graphics Output : DP2.1 UHBR20, HDM2.1 FRL 12GHz, eDP1.4b Xe-cores : 4 Max Resolution (HDMI) : 4K @ 60Hz (HDMI 2.1 TMDS) 8K @ 60Hz (HDMI2.1 FRL) Max Resolution (DP) : 8K @ 60Hz Max Resolution (eDP - Integrated Flat Panel) : 4K @ 60Hz DirectX Support : 12 OpenGL Support : 4.5 OpenCL Support : 3 Intel Quick Sync Video : Yes # of Displays Supported : 4 Device ID : 0x7D67 Intel Deep Learning Boost (Intel DL Boost) on GPU : Yes",
+        "Architecture": "-",
+        "Cache L2": "40 MB",
+        "Cache L3": "36 MB Intel Smart Cache",
+        "TDP": "65 W",
+        "CPU Cooler": "Yes"
+      },
+      "warranty": {
+        "Warranty": "3 Years"
+      }
+    }
+  }
+]

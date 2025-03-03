@@ -1,0 +1,1630 @@
+[
+  {
+    "brand": "Kingston",
+    "title": "480 GB SSD KINGSTON A400 (SA400S37/480G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20180719100943_25785_21_1.jpg",
+    "price": "1,160",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "A400 (SA400S37/480G)",
+        "Brand": "Kingston",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "A400 (SA400S37/480G)",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "240 GB SSD KINGSTON A400 (SA400S37/240G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20180719101052_25708_21_1.jpg",
+    "price": "770",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "A400 (SA400S37/240G)",
+        "Brand": "Kingston",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "350 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "A400 (SA400S37/240G)",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "350 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "500 GB SSD SAMSUNG 870 EVO SATA3 (MZ-77E500BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021021109044045272_1.jpg",
+    "price": "1,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "870 EVO (MZ-77E500BW)",
+        "Brand": "Samsung",
+        "Random Write (up to)": "88000 IOPS",
+        "Random Read (up to)": "98000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "870 EVO (MZ-77E500BW)",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "88000 IOPS",
+        "Random Read (up to)": "98000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "500 GB SSD WD BLUE SA510 - 2.5\" SATA3 (WDS500G3B0A)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022082708532754917_1.jpg",
+    "price": "1,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue",
+        "Brand": "WD",
+        "Random Write (up to)": "82,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "82,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "1 TB SSD SAMSUNG 870 EVO SATA3 (MZ-77E1T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021021109074245273_1.jpg",
+    "price": "3,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "870 EVO (MZ-77E1T0BW)",
+        "Brand": "Samsung",
+        "Random Write (up to)": "88000 IOPS",
+        "Random Read (up to)": "98000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "870 EVO (MZ-77E1T0BW)",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "88000 IOPS",
+        "Random Read (up to)": "98000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD GREEN - 2.5\" SATA (WDS100T3G0A)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021122814004850560_1.jpg",
+    "price": "1,750",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Green",
+        "Brand": "WD",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "545 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Green",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "545 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "240_GB",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20180719104227_22033_21_1.jpg",
+    "price": "590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "240 GB SSD SANDISK PLUS 2 SDSSDA-240G-G26",
+        "Brand": "Sandisk",
+        "Technology": "Marvell SS889175",
+        "ขนาด SSD": "2.5",
+        "ความจุ": "240.00 GB",
+        "Interface": "Port เชื่อมต่อSATA III",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "240 GB SSD SANDISK PLUS 2 SDSSDA-240G-G26",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Technology": "Marvell SS889175",
+        "ขนาด SSD": "2.5",
+        "ความจุ": "240.00 GB"
+      },
+      "interface connector": {
+        "Interface": "Port เชื่อมต่อSATA III"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "512 GB SSD KINGSTON KC600 (SKC600/512G) SATA",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2020022108432536977_1.jpg",
+    "price": "1,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SKC600/512G",
+        "Brand": "Kingston",
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "SKC600/512G",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "240 GB SSD WD GREEN - 2.5\" SATA3 (WDS240G3G0A)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022070609153054117_1.jpg",
+    "price": "650",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Green",
+        "Brand": "WD",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "545 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Green",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "545 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "2 TB SSD SAMSUNG 870 EVO SATA3 (MZ-77E2T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021032410455646000_1.jpg",
+    "price": "7,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "870 EVO (MZ-77E2T0BW)",
+        "Brand": "Samsung",
+        "Random Write (up to)": "88,000 IOPS",
+        "Random Read (up to)": "98,000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "2.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "870 EVO (MZ-77E2T0BW)",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "88,000 IOPS",
+        "Random Read (up to)": "98,000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "1024 GB SSD KINGSTON KC600 (SKC600/1024G) SATA",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2020022108433436978_1.jpg",
+    "price": "3,340",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SKC600/1024G",
+        "Brand": "Kingston",
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1024.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "SKC600/1024G",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1024.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "480 GB SSD SANDISK SSD PLUS (SDSSDA-480G-G26)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20180719104242_22032_21_1.jpg",
+    "price": "840",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SSD PLUS",
+        "Brand": "Sandisk",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "445 MB/s",
+        "Sequential Read (up to)": "535 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "SSD PLUS",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "445 MB/s",
+        "Sequential Read (up to)": "535 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLUE SA510 - 2.5\" SATA3 (WDS100T3B0A)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022070613102954128_1.jpg",
+    "price": "2,090",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue",
+        "Brand": "WD",
+        "Random Write (up to)": "82,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "82,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "250 GB SSD WD BLUE SA510 - 2.5\" SATA3 (WDS250G3B0A)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022070610221654120_1.jpg",
+    "price": "990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue",
+        "Brand": "WD",
+        "Random Write (up to)": "78,000 IOPS",
+        "Random Read (up to)": "80,000 IOPS",
+        "Sequential Write (up to)": "440 MB/s",
+        "Sequential Read (up to)": "555 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "250.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "78,000 IOPS",
+        "Random Read (up to)": "80,000 IOPS",
+        "Sequential Write (up to)": "440 MB/s",
+        "Sequential Read (up to)": "555 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "250.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "480 GB SSD WD GREEN - 2.5\" SATA3 (WDS480G3G0A)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022122710501357025_1.jpg",
+    "price": "920",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Green",
+        "Brand": "WD",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "545 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Green",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "545 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "4 TB SSD SAMSUNG 870 EVO SATA3 (MZ-77E4T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021041015494546238_1.jpg",
+    "price": "15,500",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "870 EVO (MZ-77E4T0BW)",
+        "Brand": "Samsung",
+        "Random Write (up to)": "88,000 IOPS",
+        "Random Read (up to)": "98,000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "Samsung V-NAND 3bit MLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "4.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "870 EVO (MZ-77E4T0BW)",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "88,000 IOPS",
+        "Random Read (up to)": "98,000 IOPS",
+        "Sequential Write (up to)": "530 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "Samsung V-NAND 3bit MLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "4.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "960 GB SSD KINGSTON A400 - 2.5\" SATA3 (SA400S37/960G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021120709371150226_1.png",
+    "price": "2,090",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "A400",
+        "Brand": "Kingston",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "960.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "A400",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "960.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "512 GB SSD HIKSEMI WAVE(S) - 2.5\" SATA3 (HS-SSD-WAVE(S) 512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023042616392059117_1.jpg",
+    "price": "790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "69,000 IOPS",
+        "Random Read (up to)": "63,000 IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "530 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "69,000 IOPS",
+        "Random Read (up to)": "63,000 IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "530 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "1024 GB SSD HIKSEMI WAVE(S) - 2.5\" SATA3 (HS-SSD-WAVE(S) 1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023042616422059118_1.jpg",
+    "price": "1,740",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "75,000 IOPS",
+        "Random Read (up to)": "75,000 IOPS",
+        "Sequential Write (up to)": "470 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1024.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "75,000 IOPS",
+        "Random Read (up to)": "75,000 IOPS",
+        "Sequential Write (up to)": "470 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1024.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "2048 GB SSD HIKSEMI WAVE(S) - 2.5\" SATA3 (HS-SSD-WAVE(S) 2048G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023042616455759119_1.jpg",
+    "price": "3,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "80,000 IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "2048.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "80,000 IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "2048.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "512 GB SSD APACER AS350 PANTHER - 2.5\" SATA3 (AP512GAS350-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023120114423663914_1.jpg",
+    "price": "1,050",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS350 PANTHER",
+        "Brand": "Apacer",
+        "Random Write (up to)": "74,000 IOPS",
+        "Random Read (up to)": "81,000 IOPS",
+        "Sequential Write (up to)": "540 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "AS350 PANTHER",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "74,000 IOPS",
+        "Random Read (up to)": "81,000 IOPS",
+        "Sequential Write (up to)": "540 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "256 GB SSD APACER AS350 PANTHER - 2.5\" SATA3 (AP256GAS350-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023120114272463913_1.jpg",
+    "price": "580",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS350 PANTHER",
+        "Brand": "Apacer",
+        "Random Write (up to)": "74,000 IOPS",
+        "Random Read (up to)": "81,000 IOPS",
+        "Sequential Write (up to)": "540 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "256.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "AS350 PANTHER",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "74,000 IOPS",
+        "Random Read (up to)": "81,000 IOPS",
+        "Sequential Write (up to)": "540 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "256 GB SSD HIKSEMI WAVE(S) - 2.5\" SATA3 (HS-SSD-WAVE(S) 256G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023042616354659116_1.jpg",
+    "price": "490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "75,000 IOPS",
+        "Random Read (up to)": "45,000 IOPS",
+        "Sequential Write (up to)": "400 MB/s",
+        "Sequential Read (up to)": "530 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "256.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "75,000 IOPS",
+        "Random Read (up to)": "45,000 IOPS",
+        "Sequential Write (up to)": "400 MB/s",
+        "Sequential Read (up to)": "530 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "128 GB SSD HIKSEMI WAVE(S) - 2.5\" SATA3 (HS-SSD-WAVE(S) 128G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023042616010759111_1.jpg",
+    "price": "360",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "51,000 IOPS",
+        "Random Read (up to)": "28,000 IOPS",
+        "Sequential Write (up to)": "370 MB/s",
+        "Sequential Read (up to)": "460 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "128.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave(s)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "51,000 IOPS",
+        "Random Read (up to)": "28,000 IOPS",
+        "Sequential Write (up to)": "370 MB/s",
+        "Sequential Read (up to)": "460 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "128.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Transcend",
+    "title": "TS500GSSD225S",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023060917261460147_1.jpg",
+    "price": "1,450",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "TS500GSSD225S",
+        "Brand": "Transcend",
+        "Random Write (up to)": "75000 IOPS",
+        "Random Read (up to)": "55000 IOPS",
+        "Sequential Write (up to)": "480 MB/s",
+        "Sequential Read (up to)": "530 MB/s",
+        "Technology": "3D NAND flash",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "TS500GSSD225S",
+        "Brand": "Transcend"
+      },
+      "specification": {
+        "Random Write (up to)": "75000 IOPS",
+        "Random Read (up to)": "55000 IOPS",
+        "Sequential Write (up to)": "480 MB/s",
+        "Sequential Read (up to)": "530 MB/s",
+        "Technology": "3D NAND flash",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "256 GB SSD HIKSEMI CITY E100 - 2.5\" SATA3 (HS-SSD-E100-256G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024012017041964973_1.jpg",
+    "price": "550",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CITY E100",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "60,000 IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "256.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "CITY E100",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "60,000 IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "512 GB SSD HIKSEMI CITY E100 - 2.5\" SATA3 (HS-SSD-E100-512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024022313164865646_1.jpg",
+    "price": "890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CITY E100",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "65,000 IOPS",
+        "Sequential Write (up to)": "480 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "CITY E100",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "65,000 IOPS",
+        "Sequential Write (up to)": "480 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Adata",
+    "title": "960 GB SSD ADATA SU630 SATA3 (ASU630SS-960GQ-R)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021051811301446669_1.jpg",
+    "price": "3,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SU630",
+        "Brand": "Adata",
+        "Random Write (up to)": "65,000 IOPS",
+        "Random Read (up to)": "40,000 IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "520 MB/s",
+        "Technology": "3D QLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "960.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "SU630",
+        "Brand": "Adata"
+      },
+      "specification": {
+        "Random Write (up to)": "65,000 IOPS",
+        "Random Read (up to)": "40,000 IOPS",
+        "Sequential Write (up to)": "450 MB/s",
+        "Sequential Read (up to)": "520 MB/s",
+        "Technology": "3D QLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "960.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "1024 GB SSD HIKSEMI CITY E100 - 2.5\" SATA3 (HS-SSD-E100-1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024022313231565649_1.jpg",
+    "price": "2,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CITY E100",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "65,000 IOPS",
+        "Sequential Write (up to)": "550 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1024.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "CITY E100",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "70,000 IOPS",
+        "Random Read (up to)": "65,000 IOPS",
+        "Sequential Write (up to)": "550 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1024.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Transcend",
+    "title": "TS128GSSD230S",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023060917494060149_1.jpg",
+    "price": "1,090",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "TS128GSSD230S",
+        "Brand": "Transcend",
+        "Random Write (up to)": "70000 IOPS",
+        "Random Read (up to)": "35000 IOPS",
+        "Sequential Write (up to)": "380 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND flash",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "128.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "TS128GSSD230S",
+        "Brand": "Transcend"
+      },
+      "specification": {
+        "Random Write (up to)": "70000 IOPS",
+        "Random Read (up to)": "35000 IOPS",
+        "Sequential Write (up to)": "380 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND flash",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "128.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Crucial",
+    "title": "CCL-CT500BX500SSD1",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082117192861537_1.jpg",
+    "price": "1,100",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CT500BX500SSD1",
+        "Brand": "Crucial",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "500 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB",
+        "Interface": "SATA",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "CT500BX500SSD1",
+        "Brand": "Crucial"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "500 MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "1 TB SSD APACER AS350 PANTHER - 2.5\" SATA3 (AP1TBAS350-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071211522368862_1.jpg",
+    "price": "2,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS350 PANTHER",
+        "Brand": "Apacer",
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "93,000 IOPS",
+        "Sequential Write (up to)": "540 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "AS350 PANTHER",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "93,000 IOPS",
+        "Sequential Write (up to)": "540 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "MSI",
+    "title": "240 GB SSD MSI SPATIUM S270 - 2.5\" SATA3",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023021014351657843_1.jpg",
+    "price": "520",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SPATIUM S270 SATA 2.5",
+        "Brand": "MSI",
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "50,000 IOPS",
+        "Sequential Write (up to)": "400 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "SPATIUM S270 SATA 2.5",
+        "Brand": "MSI"
+      },
+      "specification": {
+        "Random Write (up to)": "80,000 IOPS",
+        "Random Read (up to)": "50,000 IOPS",
+        "Sequential Write (up to)": "400 MB/s",
+        "Sequential Read (up to)": "500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Crucial",
+    "title": "CCL-CT500MX500SSD1",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082117415761540_1.jpg",
+    "price": "1,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CT500MX500SSD1",
+        "Brand": "Crucial",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB",
+        "Interface": "SATA",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "CT500MX500SSD1",
+        "Brand": "Crucial"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "2 TB SSD WD BLUE SA510 - 2.5 INCH SATA 3 (WDS200T3B0A)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024091813425270647_1.jpg",
+    "price": "5,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue",
+        "Brand": "WD",
+        "Random Write (up to)": "83,000 IOPS",
+        "Random Read (up to)": "87,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "2.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "83,000 IOPS",
+        "Random Read (up to)": "87,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Crucial",
+    "title": "CCL-CT240BX500SSD1",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082117104861536_1.jpg",
+    "price": "720",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CT240BX500SSD1",
+        "Brand": "Crucial",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "500 MB/s",
+        "Sequential Read (up to)": "540 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB",
+        "Interface": "SATA",
+        "การรับประกัน": "2 Years"
+      },
+      "model": {
+        "Model": "CT240BX500SSD1",
+        "Brand": "Crucial"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "500 MB/s",
+        "Sequential Read (up to)": "540 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA"
+      },
+      "warranty": {
+        "การรับประกัน": "2 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "480 GB SSD LEXAR NQ100 - 2.5\" SATA3 (LNQ100X480G-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024032117385066263_1.jpg",
+    "price": "1,290",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NQ100",
+        "Brand": "Lexar",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "NQ100",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "480.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Crucial",
+    "title": "CCL-CT1000BX500SSD",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082117231761538_1.jpg",
+    "price": "2,150",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CT1000BX500SSD",
+        "Brand": "Crucial",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "500 MB/s",
+        "Sequential Read (up to)": "540 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB",
+        "Interface": "SATA",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "CT1000BX500SSD",
+        "Brand": "Crucial"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "500 MB/s",
+        "Sequential Read (up to)": "540 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "240 GB SSD LEXAR NQ100 - 2.5\" SATA3 (LNQ100X240G-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024032117220666262_1.jpg",
+    "price": "890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NQ100",
+        "Brand": "Lexar",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "NQ100",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "- MB/s",
+        "Sequential Read (up to)": "550 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "240.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "1 TB SSD SANDISK ULTRA 3D - 2.5 INCH SATA3 (SDSSDH3-1T00-G26)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101616535971383_1.jpg",
+    "price": "1,950",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ultra 3D",
+        "Brand": "Sandisk",
+        "Random Write (up to)": "84,000 IOPS",
+        "Random Read (up to)": "95,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Ultra 3D",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Random Write (up to)": "84,000 IOPS",
+        "Random Read (up to)": "95,000 IOPS",
+        "Sequential Write (up to)": "520 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "500 GB SSD SANDISK ULTRA 3D - 2.5 INCH SATA3 (SDSSDH3-500G-G26)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101616232071382_1.jpg",
+    "price": "1,150",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Ultra 3D",
+        "Brand": "Sandisk",
+        "Random Write (up to)": "84,000 IOPS",
+        "Random Read (up to)": "95,000 IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB",
+        "Interface": "SATA 3.0  (6 Gb/s)",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Ultra 3D",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Random Write (up to)": "84,000 IOPS",
+        "Random Read (up to)": "95,000 IOPS",
+        "Sequential Write (up to)": "510 MB/s",
+        "Sequential Read (up to)": "560 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "2.5 inch",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "SATA 3.0  (6 Gb/s)"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  }
+]

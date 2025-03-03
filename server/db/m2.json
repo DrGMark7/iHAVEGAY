@@ -1,0 +1,3998 @@
+[
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS100T3X0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022051313111253212_1.jpg",
+    "price": "2,150",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "BLACK SN770",
+        "Brand": "WD",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "740,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "BLACK SN770",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "740,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "1 TB SSD SAMSUNG 980 PRO - PCIe 4x4/NVMe M.2 2280 (MZ-V8P1T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230901114821_45439_66_1.jpg",
+    "price": "3,290",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "980 PRO",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "5,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "980 PRO",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "5,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "500 GB SSD WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS500G3X0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022040710093052570_1.jpg",
+    "price": "1,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "BLACK SN770",
+        "Brand": "WD",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "460,000 IOPS",
+        "Sequential Write (up to)": "4,000 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "BLACK SN770",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "460,000 IOPS",
+        "Sequential Write (up to)": "4,000 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "500 GB SSD SAMSUNG 980 PCIe/NVMe M.2 2280 (MZ-V8V500BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20210914135145_46307_21_1.jpg",
+    "price": "2,140",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "980 PCIe 3.0 NVMe M.2 SSD",
+        "Brand": "Samsung",
+        "Random Write (up to)": "54,000 IOPS",
+        "Random Read (up to)": "17,000 IOPS",
+        "Sequential Write (up to)": "2,600 MB/s",
+        "Sequential Read (up to)": "3,100 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "980 PCIe 3.0 NVMe M.2 SSD",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "54,000 IOPS",
+        "Random Read (up to)": "17,000 IOPS",
+        "Sequential Write (up to)": "2,600 MB/s",
+        "Sequential Read (up to)": "3,100 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "1 TB SSD KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/1000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022101509081955789_1.jpg",
+    "price": "1,850",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NV2",
+        "Brand": "Kingston",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,100 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "NV2",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,100 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLACK SN850X WITHOUT HEATSINK - PCIe 4x4/NVMe M.2 2280 (WDS100T2X0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022102516290155937_1.jpg",
+    "price": "2,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Black SN850X",
+        "Brand": "WD",
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Black SN850X",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "1 TB SSD HIKSEMI FUTURE - PCIe 4x4/NVMe M.2 2280 (HS-SSD-FUTURE 1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023032414462958596_1.jpg",
+    "price": "2,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE Consumer SSD",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "670,000 IOPS",
+        "Random Read (up to)": "860,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE Consumer SSD",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "670,000 IOPS",
+        "Random Read (up to)": "860,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "500 GB SSD KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/500G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022092210482255282_1.jpg",
+    "price": "1,290",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NV2",
+        "Brand": "Kingston",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,100 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "NV2",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,100 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 (WDS100T3B0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023081411151161311_1.jpg",
+    "price": "1,770",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue",
+        "Brand": "WD",
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "600,000 IOPS",
+        "Sequential Write (up to)": "4,150 MB/s",
+        "Sequential Read (up to)": "4,150 MB/s",
+        "Technology": "WDC TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "600,000 IOPS",
+        "Sequential Write (up to)": "4,150 MB/s",
+        "Sequential Read (up to)": "4,150 MB/s",
+        "Technology": "WDC TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "2 TB SSD HIKSEMI FUTURE - PCIe 4x4/NVMe M.2 2280 (HS-SSD-FUTURE 2048G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023032414552358597_1.jpg",
+    "price": "4,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE Consumer SSD",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "690,000 IOPS",
+        "Random Read (up to)": "860,000 IOPS",
+        "Sequential Write (up to)": "6,750 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE Consumer SSD",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "690,000 IOPS",
+        "Random Read (up to)": "860,000 IOPS",
+        "Sequential Write (up to)": "6,750 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "1 TB SSD SAMSUNG 990 PRO - PCIe 4x4/NVMe M.2 2280 (MZ-V9P1T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082414395561609_1.jpg",
+    "price": "4,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 PRO",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 PRO",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "512 GB SSD KINGSTON KC3000 - PCIe 4/NVMe M.2 2280 (SKC3000S/512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021112517355050101_1.png",
+    "price": "1,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "KC3000",
+        "Brand": "Kingston",
+        "Random Write (up to)": "900,00 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,900 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "KC3000",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "900,00 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,900 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "500 GB SSD WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 (WDS500G3B0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023081411062261309_1.jpg",
+    "price": "1,090",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue",
+        "Brand": "WD",
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,600 MB/s",
+        "Sequential Read (up to)": "4,000 MB/s",
+        "Technology": "WDC TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,600 MB/s",
+        "Sequential Read (up to)": "4,000 MB/s",
+        "Technology": "WDC TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "2 TB SSD KINGSTON FURY RENEGADE - PCIe 4x4/NVMe M.2 2280 (SFYRD/2000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230918164424_50099_66_1.jpg",
+    "price": "6,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "4 TB SSD KINGSTON FURY RENEGADE - PCIe 4x4/NVMe M.2 2280 (SFYRD/4000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230918170815_50227_66_1.jpg",
+    "price": "12,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD GREEN SN350 - PCIe 3x4/NVMe M.2 2280 (WDS100T3G0C)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023070816173060761_1.jpg",
+    "price": "1,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "WD Green SN350 NVMe™ SSD",
+        "Brand": "WD",
+        "Random Write (up to)": "400,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "3,200 MB/s",
+        "Technology": "QLC NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "WD Green SN350 NVMe™ SSD",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "400,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "3,200 MB/s",
+        "Technology": "QLC NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "1024 GB SSD KINGSTON KC3000 - PCIe 4/NVMe M.2 2280 (SKC3000S/1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021112517424750102_1.png",
+    "price": "3,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "KC3000",
+        "Brand": "Kingston",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "900,000 IOPS",
+        "Sequential Write (up to)": "6,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1024.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "KC3000",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "900,000 IOPS",
+        "Sequential Write (up to)": "6,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1024.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "2 TB SSD WD BLACK SN770 - PCIe 4x4/NVMe M.2 2280 (WDS200T3X0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023091413340662121_1.jpg",
+    "price": "4,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "BLACK SN770",
+        "Brand": "WD",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "650,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "BLACK SN770",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "650,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "2 TB SSD KINGSTON NV2 - PCIe 4/NVMe M.2 2280 (SNV2S/2000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022122109550756890_1.jpg",
+    "price": "3,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NV2",
+        "Brand": "Kingston",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,800 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "NV2",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,800 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "2 TB SSD SAMSUNG 990 PRO - PCIe 4x4/NVMe M.2 2280 (MZ-V9P2T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082416295161614_1.jpg",
+    "price": "6,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 PRO",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 PRO",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "250 GB SSD SAMSUNG 980 PCIe/NVMe M.2 2280 (MZ-V8V250BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021042308583446305_1.jpg",
+    "price": "1,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "980 PCIe 3.0 NVMe M.2 SSD",
+        "Brand": "Samsung",
+        "Random Write (up to)": "53,000 IOPS",
+        "Random Read (up to)": "17,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "2,900 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "250.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "980 PCIe 3.0 NVMe M.2 SSD",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "53,000 IOPS",
+        "Random Read (up to)": "17,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "2,900 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "250.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLACK SN850X WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (WDS100T2XHE)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022120813231356822_1.jpg",
+    "price": "3,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Black SN850X",
+        "Brand": "WD",
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Black SN850X",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "2 TB SSD WD BLACK SN850X WITHOUT HEATSINK - PCIe 4x4/NVMe M.2 2280 (WDS200T2X0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023071013582760771_1.jpg",
+    "price": "4,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Black SN850X",
+        "Brand": "WD",
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Black SN850X",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "1 TB SSD HIKSEMI FUTURE ECO - PCIe 4x4/NVMe M.2 2280 (HS-SSD-FUTURE ECO 1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023081116104661303_1.jpg",
+    "price": "2,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE ECO",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "880,000 IOPS",
+        "Random Read (up to)": "880,000 IOPS",
+        "Sequential Write (up to)": "4,600 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE ECO",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "880,000 IOPS",
+        "Random Read (up to)": "880,000 IOPS",
+        "Sequential Write (up to)": "4,600 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "500 GB SSD WD GREEN SN350 - PCIe 3x4/NVMe M.2 2280 (WDS500G2G0C)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023070815500160760_1.jpg",
+    "price": "1,050",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Green SN350 NVMe SSD",
+        "Brand": "WD",
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "1,500 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Green SN350 NVMe SSD",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "1,500 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "512 GB SSD HIKSEMI FUTURE - PCIe 4x4/NVMe M.2 2280 (HS-SSD-FUTURE 512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023032413420158591_1.jpg",
+    "price": "1,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE Consumer SSD",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "640,000 IOPS",
+        "Random Read (up to)": "710,000 IOPS",
+        "Sequential Write (up to)": "4,200 MB/s",
+        "Sequential Read (up to)": "7,050 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE Consumer SSD",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "640,000 IOPS",
+        "Random Read (up to)": "710,000 IOPS",
+        "Sequential Write (up to)": "4,200 MB/s",
+        "Sequential Read (up to)": "7,050 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hikvision",
+    "title": "1 TB SSD HIKVISION E3000 - PCIe 3/NVMe M.2 2280 (HS-SSD-E3000-1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2022053113382253510_1.png",
+    "price": "2,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "E3000",
+        "Brand": "Hikvision",
+        "Random Write (up to)": "150,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "2,900 MB/s",
+        "Sequential Read (up to)": "3,520 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "E3000",
+        "Brand": "Hikvision"
+      },
+      "specification": {
+        "Random Write (up to)": "150,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "2,900 MB/s",
+        "Sequential Read (up to)": "3,520 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "1024 GB SSD HIKSEMI WAVE PRO(P) - PCIe 3 NVMe M.2 2280 (HS-SSD-WAVE PRO(P) 1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023050210260559271_1.jpg",
+    "price": "1,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave Pro(P)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "150,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "2,900 MB/s",
+        "Sequential Read (up to)": "3,520 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1024.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave Pro(P)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "150,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "2,900 MB/s",
+        "Sequential Read (up to)": "3,520 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1024.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "1 TB SSD SAMSUNG 990 EVO - PCIe 4x4 / 5x2 NVMe M.2 2280 (MZ-V9E1T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024021310121665477_1.jpg",
+    "price": "2,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 EVO",
+        "Brand": "Samsung",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "680,000 IOPS",
+        "Sequential Write (up to)": "4,200 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 EVO",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "680,000 IOPS",
+        "Sequential Write (up to)": "4,200 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "500 GB SSD KINGSTON FURY RENEGADE - PCIe 4x4/NVMe M.2 2280 (SFYRS/500G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/20230918164714_50100_66_1.jpg",
+    "price": "2,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston",
+        "Random Write (up to)": "900,000 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,900 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "900,000 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,900 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "2048 GB SSD KINGSTON KC3000 - PCIe 4/NVMe M.2 2280 (SKC3000D/2048G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021112517480850103_1.png",
+    "price": "4,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "KC3000",
+        "Brand": "Kingston",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2048.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "KC3000",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2048.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "512 GB SSD HIKSEMI WAVE PRO(P) - PCIe 3 NVMe M.2 2280 (HS-SSD-WAVE PRO(P) 512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023050210053759270_1.jpg",
+    "price": "1,240",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave Pro(P)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "155,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave Pro(P)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "155,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "NV3 SERIES M.2 2280 NVME (SNV3S/1000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024090611312270439_1.jpg",
+    "price": "1,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SNV3S/1000G",
+        "Brand": "Kingston",
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "4,000MB MB/s",
+        "Sequential Read (up to)": "6,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "SNV3S/1000G",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "4,000MB MB/s",
+        "Sequential Read (up to)": "6,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "1 TB SSD SAMSUNG 990 PRO WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (MZ-V9P1T0CW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023081915245461480_1.jpg",
+    "price": "4,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 PRO with Heatsink",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 PRO with Heatsink",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "4096 GB SSD KINGSTON KC3000 - PCIe 4/NVMe M.2 2280 (SKC3000D/4096G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021120711150950228_1.png",
+    "price": "12,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "KC3000",
+        "Brand": "Kingston",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4096.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "KC3000",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4096.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "2 TB SSD WD BLACK SN850X WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (WDS200T2XHE)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023062214081260373_1.jpg",
+    "price": "6,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Black SN850X",
+        "Brand": "WD",
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Black SN850X",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Silicon Power",
+    "title": "512 GB SSD SILICON POWER A80 M.2 NVMe (SP512GBP34A80M28)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2021060513474247010_1.jpg",
+    "price": "1,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "A80",
+        "Brand": "Silicon Power",
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "2,300 MB/s",
+        "Sequential Read (up to)": "3,400 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "M.2 PCIe Gen3",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "A80",
+        "Brand": "Silicon Power"
+      },
+      "specification": {
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "2,300 MB/s",
+        "Sequential Read (up to)": "3,400 MB/s",
+        "Technology": "N/A",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "M.2 PCIe Gen3"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLACK SN770M - PCIe 4x4/NVMe M.2 2230 (WDS100T3X0G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023102609563963231_1.jpg",
+    "price": "3,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SN770M",
+        "Brand": "WD",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "740,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "TLC",
+        "ขนาด SSD": "22 x 30 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "SN770M",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "740,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "TLC",
+        "ขนาด SSD": "22 x 30 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "250 GB SSD WD GREEN SN350 - PCIe 3x4/NVMe M.2 2280 (WDS250G2G0C)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023070410004960645_1.jpg",
+    "price": "740",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Green SN350 NVMe SSD",
+        "Brand": "WD",
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "1,500 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "250.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Green SN350 NVMe SSD",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "1,500 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "TLC NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "250.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "512 GB SSD HIKSEMI FUTURE ECO - PCIe 4x4/NVMe M.2 2280 (HS-SSD-FUTURE ECO 512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023081114435461301_1.jpg",
+    "price": "1,350",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE ECO",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "530,000 IOPS",
+        "Random Read (up to)": "430,000 IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE ECO",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "530,000 IOPS",
+        "Random Read (up to)": "430,000 IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "4 TB SSD WD BLACK SN850X WITHOUT HEATSINK - PCIe 4x4/NVMe M.2 2280 (WDS400T2X0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023120415101463977_1.jpg",
+    "price": "13,800",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Black SN850X",
+        "Brand": "WD",
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Black SN850X",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "250 GB SSD WD BLUE SN580 - PCIe 4x4/NVMe M.2 2280 (WDS250G3B0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023081410470661307_1.jpg",
+    "price": "880",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue",
+        "Brand": "WD",
+        "Random Write (up to)": "470,000 IOPS",
+        "Random Read (up to)": "240,000 IOPS",
+        "Sequential Write (up to)": "2,000 MB/s",
+        "Sequential Read (up to)": "4,000 MB/s",
+        "Technology": "WDC TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "250.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "470,000 IOPS",
+        "Random Read (up to)": "240,000 IOPS",
+        "Sequential Write (up to)": "2,000 MB/s",
+        "Sequential Read (up to)": "4,000 MB/s",
+        "Technology": "WDC TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "250.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "256 GB SSD HIKSEMI WAVE(P) - PCIe 3/NVMe M.2 2280 (HS-SSD-WAVE(P) 256G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023050213493659275_1.jpg",
+    "price": "640",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave(P)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "320,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "2,280 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave(P)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "320,000 IOPS",
+        "Random Read (up to)": "90,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "2,280 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "2 TB SSD SAMSUNG 990 PRO WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (MZ-V9P2T0CW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023081916102761485_1.jpg",
+    "price": "7,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 PRO with Heatsink",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 PRO with Heatsink",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "512 GB SSD HIKSEMI WAVE(P) - PCIe 3/NVMe M.2 2280 (HS-SSD-WAVE(P) 512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023050214183259277_1.jpg",
+    "price": "990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave(P)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "225,000 IOPS",
+        "Random Read (up to)": "55,000 IOPS",
+        "Sequential Write (up to)": "10,25 MB/s",
+        "Sequential Read (up to)": "2,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave(P)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "225,000 IOPS",
+        "Random Read (up to)": "55,000 IOPS",
+        "Sequential Write (up to)": "10,25 MB/s",
+        "Sequential Read (up to)": "2,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "2 TB SSD SAMSUNG 990 EVO - PCIe 4x4 / 5x2 NVMe M.2 2280 (MZ-V9E2T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024021311163765479_1.jpg",
+    "price": "5,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 EVO",
+        "Brand": "Samsung",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "700,000 IOPS",
+        "Sequential Write (up to)": "4,200 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 EVO",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "700,000 IOPS",
+        "Sequential Write (up to)": "4,200 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Klevv",
+    "title": "1 TB SSD KLEVV CRAS C910 M.2 2280 NVMe PCIe GEN4x4 (K01TBM2SP0-C91)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024011016034164787_1.jpg",
+    "price": "2,090",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CRAS C910",
+        "Brand": "Klevv",
+        "Random Write (up to)": "650K IOPS",
+        "Random Read (up to)": "625K IOPS",
+        "Sequential Write (up to)": "4800 MB/s",
+        "Sequential Read (up to)": "5000 MB/s",
+        "Technology": "Strictly-selected 3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CRAS C910",
+        "Brand": "Klevv"
+      },
+      "specification": {
+        "Random Write (up to)": "650K IOPS",
+        "Random Read (up to)": "625K IOPS",
+        "Sequential Write (up to)": "4800 MB/s",
+        "Sequential Read (up to)": "5000 MB/s",
+        "Technology": "Strictly-selected 3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "4 TB SSD KINGSTON FURY RENEGADE WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (SFYRDK/4000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023100614473862917_1.jpg",
+    "price": "14,700",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "2 TB SSD KINGSTON FURY RENEGADE WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (SFYRDK/2000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023091814510362250_1.jpg",
+    "price": "6,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FURY Renegade",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "7,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "NV3 SERIES M.2 2280 NVME (SNV3S/500G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024090611312870438_1.jpg",
+    "price": "1,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SNV3S/500G",
+        "Brand": "Kingston",
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "SNV3S/500G",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "1 TB SSD SANDISK SSD PLUS - PCIe 3x4 NVMe M.2 2280 (SDSSDA3N-1T00-G26)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101609575971342_1.jpg",
+    "price": "1,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SSD PLUS",
+        "Brand": "Sandisk",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "3,200 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "SSD PLUS",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "3,200 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "4 TB SSD HIKSEMI FUTURE - PCIe 4x4/NVMe M.2 2280 (HS-SSD-FUTURE-4096G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024012209190364978_1.jpg",
+    "price": "8,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "700,000 IOPS",
+        "Random Read (up to)": "907,000 IOPS",
+        "Sequential Write (up to)": "6,500 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "700,000 IOPS",
+        "Random Read (up to)": "907,000 IOPS",
+        "Sequential Write (up to)": "6,500 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "2 TB SSD WD BLACK SN770M - PCIe 4x4/NVMe M.2 2230 (WDS200T3X0G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023121515132064242_1.jpg",
+    "price": "6,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SN770M",
+        "Brand": "WD",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "650,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "TLC",
+        "ขนาด SSD": "22 x 30 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "SN770M",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "650,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "TLC",
+        "ขนาด SSD": "22 x 30 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Transcend",
+    "title": "TCN-TS1TMTE250H",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023050410415059324_1.jpg",
+    "price": "4,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "TS1TMTE250H",
+        "Brand": "Transcend",
+        "Random Write (up to)": "up to 530,000/420,000 IOPS IOPS",
+        "Random Read (up to)": "up to 530,000/420,000 IOPS IOPS",
+        "Sequential Write (up to)": "up to 7,200/6,200 MB/s MB/s",
+        "Sequential Read (up to)": "up to 7,200/6,200 MB/s MB/s",
+        "Technology": "3D NAND flash",
+        "ขนาด SSD": "80.0 x 23.1 x 9.2 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "TS1TMTE250H",
+        "Brand": "Transcend"
+      },
+      "specification": {
+        "Random Write (up to)": "up to 530,000/420,000 IOPS IOPS",
+        "Random Read (up to)": "up to 530,000/420,000 IOPS IOPS",
+        "Sequential Write (up to)": "up to 7,200/6,200 MB/s MB/s",
+        "Sequential Read (up to)": "up to 7,200/6,200 MB/s MB/s",
+        "Technology": "3D NAND flash",
+        "ขนาด SSD": "80.0 x 23.1 x 9.2 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "LXR-LNM620X001T",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023050416574759348_1.jpg",
+    "price": "2,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "LNM620X001T",
+        "Brand": "Lexar",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "3000 MB/s",
+        "Sequential Read (up to)": "3300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "80.0 x 22 x 2.25 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "LNM620X001T",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "3000 MB/s",
+        "Sequential Read (up to)": "3300 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "80.0 x 22 x 2.25 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "1 TB SSD LEXAR NM610 PRO - PCIe 3x4 NVMe M.2 2280 (LNM610P001T-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024072616461069271_1.jpg",
+    "price": "2,250",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM610 PRO",
+        "Brand": "Lexar",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,600 MB/s",
+        "Sequential Read (up to)": "3,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "NM610 PRO",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2,600 MB/s",
+        "Sequential Read (up to)": "3,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "512 GB SSD LEXAR NM620 - PCIe 3x4 NVMe M.2 2280 (LNM620X512G-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024032215391666304_1.jpg",
+    "price": "1,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM620",
+        "Brand": "Lexar",
+        "Random Write (up to)": "256,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "2,400 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "NM620",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "256,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "2,400 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Corsair",
+    "title": "1 TB SSD CORSAIR MP600 ELITE WITH HEATSINK - PCIe 4x4 NVMe M.2 2280 (CSSD-F1000GBMP600EHS)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024070313062568471_1.jpg",
+    "price": "3,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "MP600 ELITE",
+        "Brand": "Corsair",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "6,200 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "MP600 ELITE",
+        "Brand": "Corsair"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "1,000,000 IOPS",
+        "Sequential Write (up to)": "6,200 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "4 TB SSD SAMSUNG 990 PRO WITH HEATSINK - PCIe 4x4/NVMe M.2 2280 (MZ-V9P4T0CW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024051509225067280_1.jpg",
+    "price": "14,400",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 PRO with Heatsink",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,600,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 PRO with Heatsink",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,550,000 IOPS",
+        "Random Read (up to)": "1,600,000 IOPS",
+        "Sequential Write (up to)": "6,900 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "Samsung V-NAND 3-bit MLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "500 GB SSD WD BLACK SN770M - PCIe 4x4/NVMe M.2 2230 (WDS500G3X0G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023102610221263233_1.jpg",
+    "price": "2,840",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SN770M",
+        "Brand": "WD",
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "460,000 IOPS",
+        "Sequential Write (up to)": "4,000 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "TLC",
+        "ขนาด SSD": "22 x 30 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "SN770M",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "800,000 IOPS",
+        "Random Read (up to)": "460,000 IOPS",
+        "Sequential Write (up to)": "4,000 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "TLC",
+        "ขนาด SSD": "22 x 30 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Corsair",
+    "title": "1 TB SSD CORSAIR MP700 PRO WITH AIR COOLER - PCIe 5x4 NVMe M.2 2280 (CSSD-F1000GBMP700PRO)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024042613382966954_1.jpg",
+    "price": "7,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "MP700 PRO with Air Cooler",
+        "Brand": "Corsair",
+        "Random Write (up to)": "1,500,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "9,600 MB/s",
+        "Sequential Read (up to)": "11,700 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 5.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "MP700 PRO with Air Cooler",
+        "Brand": "Corsair"
+      },
+      "specification": {
+        "Random Write (up to)": "1,500,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "9,600 MB/s",
+        "Sequential Read (up to)": "11,700 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 5.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "256 GB SSD LEXAR NM620 - PCIe 3x4 NVMe M.2 2280 (LNM620X256G-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024032215203366300_1.jpg",
+    "price": "650",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM620",
+        "Brand": "Lexar",
+        "Random Write (up to)": "240,000 IOPS",
+        "Random Read (up to)": "92,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "NM620",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "240,000 IOPS",
+        "Random Read (up to)": "92,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Kingston",
+    "title": "NV3 SERIES M.2 2280 NVME (SNV3S/2000G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024090611311670440_1.jpg",
+    "price": "4,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SNV3S/2000G",
+        "Brand": "Kingston",
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "5,000 MB/s",
+        "Sequential Read (up to)": "6,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "SNV3S/2000G",
+        "Brand": "Kingston"
+      },
+      "specification": {
+        "Random Write (up to)": "N/A IOPS",
+        "Random Read (up to)": "N/A IOPS",
+        "Sequential Write (up to)": "5,000 MB/s",
+        "Sequential Read (up to)": "6,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Crucial",
+    "title": "CCL-CT500P3SSD8",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082210171661545_1.jpg",
+    "price": "1,290",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CT500P3SSD8",
+        "Brand": "Crucial",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1900 MB/s",
+        "Sequential Read (up to)": "3500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "M.2 PCIe Gen3",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CT500P3SSD8",
+        "Brand": "Crucial"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1900 MB/s",
+        "Sequential Read (up to)": "3500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "M.2 PCIe Gen3"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Crucial",
+    "title": "CCL-CT500P3PSSD8",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082211005061549_1.jpg",
+    "price": "1,300",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CT500P3PSSD8",
+        "Brand": "Crucial",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1900 MB/s",
+        "Sequential Read (up to)": "4700 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CT500P3PSSD8",
+        "Brand": "Crucial"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1900 MB/s",
+        "Sequential Read (up to)": "4700 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Crucial",
+    "title": "CCL-CT1000P3PSSD8",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2023082211134861550_1.jpg",
+    "price": "2,250",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CT1000P3PSSD8",
+        "Brand": "Crucial",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "3600 MB/s",
+        "Sequential Read (up to)": "5000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CT1000P3PSSD8",
+        "Brand": "Crucial"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "3600 MB/s",
+        "Sequential Read (up to)": "5000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "2 TB SSD LEXAR NM790 - PCIe 4x4 NVMe M.2 2280 (LNM790X002T-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024032214374266289_1.jpg",
+    "price": "4,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM790",
+        "Brand": "Lexar",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "6,500 MB/s",
+        "Sequential Read (up to)": "7,400 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "NM790",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "6,500 MB/s",
+        "Sequential Read (up to)": "7,400 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "500 GB SSD LEXAR NM610 PRO - PCIe 3x4 NVMe M.2 2280 (LNM610P500G-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024091316582970538_1.jpg",
+    "price": "1,390",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM610 PRO",
+        "Brand": "Lexar",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1,700 MB/s",
+        "Sequential Read (up to)": "3,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "NM610 PRO",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1,700 MB/s",
+        "Sequential Read (up to)": "3,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "512 GB SSD APACER AS2280Q4U - PCIe 4x4 NVMe M.2 2280 (AP512GAS2280Q4U-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024040510043666674_1.jpg",
+    "price": "1,790",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280Q4U",
+        "Brand": "Apacer",
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280Q4U",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "450,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "256 GB SSD APACER AS2280P4 - PCIe 3x4 NVMe M.2 2280 (AP256GAS2280P4-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024032709575566470_1.jpg",
+    "price": "799",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280P4",
+        "Brand": "Apacer",
+        "Random Write (up to)": "265,000 IOPS",
+        "Random Read (up to)": "165,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "2,100 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "256.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "AS2280P4",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "265,000 IOPS",
+        "Random Read (up to)": "165,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "2,100 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "1 TB SSD SANDISK EXTREME - PCIe 4x4 NVMe M.2 2280 (SDSSDX3N-1T00-G26)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101613211071360_1.jpg",
+    "price": "2,150",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Extreme",
+        "Brand": "Sandisk",
+        "Random Write (up to)": "740,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Extreme",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Random Write (up to)": "740,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Klevv",
+    "title": "500 GB SSD KLEVV CRASS C910 M.2 2280 NVMe PCIe Gen4x4 (K500GM2SP0-C91)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024051609110267317_1.jpg",
+    "price": "1,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CRAS C910",
+        "Brand": "Klevv",
+        "Random Write (up to)": "510K IOPS",
+        "Random Read (up to)": "545K IOPS",
+        "Sequential Write (up to)": "3700 MB/s",
+        "Sequential Read (up to)": "5000 MB/s",
+        "Technology": "Strictly-selected 3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CRAS C910",
+        "Brand": "Klevv"
+      },
+      "specification": {
+        "Random Write (up to)": "510K IOPS",
+        "Random Read (up to)": "545K IOPS",
+        "Sequential Write (up to)": "3700 MB/s",
+        "Sequential Read (up to)": "5000 MB/s",
+        "Technology": "Strictly-selected 3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "1 TB SSD APACER AS2280Q4U - PCIe 4x4 NVMe M.2 2280 (AP1TBAS2280Q4U-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071313233968879_1.jpg",
+    "price": "2,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280Q4U",
+        "Brand": "Apacer",
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "750,000 IOPS",
+        "Sequential Write (up to)": "6,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280Q4U",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "1,000,000 IOPS",
+        "Random Read (up to)": "750,000 IOPS",
+        "Sequential Write (up to)": "6,000 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLUE SN5000 - PCIe 4x4 NVMe M.2 2280 (WDS100T4B0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024121015321672814_1.jpg",
+    "price": "1,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue SN5000",
+        "Brand": "WD",
+        "Random Write (up to)": "770,000 IOPS",
+        "Random Read (up to)": "730,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "3D NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue SN5000",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "770,000 IOPS",
+        "Random Read (up to)": "730,000 IOPS",
+        "Sequential Write (up to)": "4,900 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "3D NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "1 TB SSD APACER AS2280Q4 - PCIe 4x4 NVMe M.2 2280 (AP1TBAS2280Q4-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071316085768888_1.jpg",
+    "price": "2,690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280Q4",
+        "Brand": "Apacer",
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "750,000 IOPS",
+        "Sequential Write (up to)": "4,400 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280Q4",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "750,000 IOPS",
+        "Sequential Write (up to)": "4,400 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "1 TB SSD APACER AS2280Q4L - PCIe 4x4 NVMe M.2 2280 (AP1TBAS2280Q4L-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071314585968883_1.jpg",
+    "price": "2,440",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280Q4L",
+        "Brand": "Apacer",
+        "Random Write (up to)": "740,000 IOPS",
+        "Random Read (up to)": "430,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "3,600 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280Q4L",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "740,000 IOPS",
+        "Random Read (up to)": "430,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "3,600 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "500 GB SSD APACER AS2280Q4 - PCIe 4x4 NVMe M.2 2280 (AP500GAS2280Q4-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071316012768887_1.jpg",
+    "price": "1,450",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280Q4",
+        "Brand": "Apacer",
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "150,000 IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "4,500 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280Q4",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "300,000 IOPS",
+        "Random Read (up to)": "150,000 IOPS",
+        "Sequential Write (up to)": "2,500 MB/s",
+        "Sequential Read (up to)": "4,500 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "1 TB SSD APACER AS2280P4X - PCIe 3x4 NVMe M.2 2280 (AP1TBAS2280P4X-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071214033968865_1.jpg",
+    "price": "2,350",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280P4X",
+        "Brand": "Apacer",
+        "Random Write (up to)": "420,000 IOPS",
+        "Random Read (up to)": "530,000 IOPS",
+        "Sequential Write (up to)": "1,700 MB/s",
+        "Sequential Read (up to)": "2,100 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280P4X",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "420,000 IOPS",
+        "Random Read (up to)": "530,000 IOPS",
+        "Sequential Write (up to)": "1,700 MB/s",
+        "Sequential Read (up to)": "2,100 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "512 GB SSD APACER AS2280Q4L - PCIe 4x4 NVMe M.2 2280 (AP512GAS2280Q4L-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071314514568882_1.jpg",
+    "price": "1,440",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280Q4L",
+        "Brand": "Apacer",
+        "Random Write (up to)": "600,000 IOPS",
+        "Random Read (up to)": "410,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "3,600 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280Q4L",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "600,000 IOPS",
+        "Random Read (up to)": "410,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "3,600 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Apacer",
+    "title": "2 TB SSD APACER AS2280Q4 - PCIe 4x4 NVMe M.2 2280 (AP2TBAS2280Q4-1)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024071316200468889_1.jpg",
+    "price": "4,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "AS2280Q4",
+        "Brand": "Apacer",
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "750,000 IOPS",
+        "Sequential Write (up to)": "4,400 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "AS2280Q4",
+        "Brand": "Apacer"
+      },
+      "specification": {
+        "Random Write (up to)": "750,000 IOPS",
+        "Random Read (up to)": "750,000 IOPS",
+        "Sequential Write (up to)": "4,400 MB/s",
+        "Sequential Read (up to)": "5,000 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "1 TB SSD SAMSUNG 990 EVO PLUS - PCIe 4x4 / 5x2 NVMe M.2 2280 (MZ-V9S1T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024112214501772296_1.jpg",
+    "price": "3,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 EVO Plus",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,350,000 IOPS",
+        "Random Read (up to)": "850,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,150 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 EVO Plus",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,350,000 IOPS",
+        "Random Read (up to)": "850,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,150 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "1 TB SSD WD BLACK SN850P NVMe SSD FOR PS5 CONSOLES - PCIe 4x4 NVMe M.2 2280 (WDBBYV0010BNC)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101814591271460_1.jpg",
+    "price": "3,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "BLACK SN850P",
+        "Brand": "WD",
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "BLACK SN850P",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "500 GB SSD SANDISK SSD PLUS - PCIe 3x4 NVMe M.2 2280 (SDSSDA3N-500G-G26)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101609515671341_1.jpg",
+    "price": "1,090",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "SSD PLUS",
+        "Brand": "Sandisk",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1,500 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "500.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "SSD PLUS",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "1,500 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "500.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Sandisk",
+    "title": "2 TB SSD SANDISK EXTREME - PCIe 4x4 NVMe M.2 2280 (SDSSDX3N-2T00-G26)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101613281571364_1.jpg",
+    "price": "4,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Extreme",
+        "Brand": "Sandisk",
+        "Random Write (up to)": "650,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Extreme",
+        "Brand": "Sandisk"
+      },
+      "specification": {
+        "Random Write (up to)": "650,000 IOPS",
+        "Random Read (up to)": "800,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "2 TB SSD WD BLACK SN850P NVMe SSD FOR PS5 CONSOLES - PCIe 4x4 NVMe M.2 2280 (WDBBYV0020BNC)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101815412971461_1.jpg",
+    "price": "6,890",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "BLACK SN850P",
+        "Brand": "WD",
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "BLACK SN850P",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "1,100,000 IOPS",
+        "Random Read (up to)": "1,200,000 IOPS",
+        "Sequential Write (up to)": "6,600 MB/s",
+        "Sequential Read (up to)": "7,300 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "1 TB SSD LEXAR NM620 - PCIe 3x4 NVMe M.2 2280 (LNM620X001T-RNNNG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024112915002672531_1.jpg",
+    "price": "1,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM620",
+        "Brand": "Lexar",
+        "Random Write (up to)": "256,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "NM620",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "256,000 IOPS",
+        "Random Read (up to)": "300,000 IOPS",
+        "Sequential Write (up to)": "3,000 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "256 GB SSD HIKSEMI CITY E3000 - PCIe 3x4 NVMe M.2 2280 (HS-SSD-E3000-256G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024042310154166866_1.jpg",
+    "price": "690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CITY E3000",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "210,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "3,230 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CITY E3000",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "210,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "1,300 MB/s",
+        "Sequential Read (up to)": "3,230 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "2048 GB SSD HIKSEMI FUTUREX - PCIe 4x4 NVMe M.2 2280 (HS-SSD-FUTUREX 2048G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024070514352068557_1.jpg",
+    "price": "6,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTUREX",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "690,000 IOPS",
+        "Random Read (up to)": "860,000 IOPS",
+        "Sequential Write (up to)": "6,750 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2048.00 GB",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTUREX",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "690,000 IOPS",
+        "Random Read (up to)": "860,000 IOPS",
+        "Sequential Write (up to)": "6,750 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2048.00 GB"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "WD",
+    "title": "2 TB SSD WD BLUE SN5000 - PCIe 4x4 NVMe M.2 2280 (WDS200T4B0E)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024121015490672816_1.jpg",
+    "price": "4,490",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Blue SN5000",
+        "Brand": "WD",
+        "Random Write (up to)": "770,000 IOPS",
+        "Random Read (up to)": "650,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "3D NAND TLC",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "Blue SN5000",
+        "Brand": "WD"
+      },
+      "specification": {
+        "Random Write (up to)": "770,000 IOPS",
+        "Random Read (up to)": "650,000 IOPS",
+        "Sequential Write (up to)": "4,850 MB/s",
+        "Sequential Read (up to)": "5,150 MB/s",
+        "Technology": "3D NAND TLC",
+        "ขนาด SSD": "22 x 80",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Samsung",
+    "title": "4 TB SSD SAMSUNG 990 EVO PLUS - PCIe 4x4 / 5x2 NVMe M.2 2280 (MZ-V9S4T0BW)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024112214574872297_1.jpg",
+    "price": "11,400",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "990 EVO Plus",
+        "Brand": "Samsung",
+        "Random Write (up to)": "1,400,000 IOPS",
+        "Random Read (up to)": "1,050,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,250 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "990 EVO Plus",
+        "Brand": "Samsung"
+      },
+      "specification": {
+        "Random Write (up to)": "1,400,000 IOPS",
+        "Random Read (up to)": "1,050,000 IOPS",
+        "Sequential Write (up to)": "6,300 MB/s",
+        "Sequential Read (up to)": "7,250 MB/s",
+        "Technology": "Samsung V-NAND TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "512 GB SSD HIKSEMI CITY E3000 - PCIe 3/NVMe M.2 2280 (HS-SSD-E3000-512G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024111214370272018_1.jpg",
+    "price": "1,060",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CITY E3000",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "155,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CITY E3000",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "155,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "3,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "2 TB SSD LEXAR NM1090 - PCIe 5x4 NVMe M.2 2280 (LNM1090002T-RNANG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024112914461072529_1.jpg",
+    "price": "13,900",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM1090",
+        "Brand": "Lexar",
+        "Random Write (up to)": "1,400,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "11,000 MB/s",
+        "Sequential Read (up to)": "12,000 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 5.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "NM1090",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "1,400,000 IOPS",
+        "Random Read (up to)": "1,400,000 IOPS",
+        "Sequential Write (up to)": "11,000 MB/s",
+        "Sequential Read (up to)": "12,000 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 5.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Klevv",
+    "title": "K512GM2SP0-C7T",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024121016214572823_1.jpg",
+    "price": "1,040",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CRAS C715",
+        "Brand": "Klevv",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2000 MB/s",
+        "Sequential Read (up to)": "3200 MB/s",
+        "Technology": "3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCI-Express 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CRAS C715",
+        "Brand": "Klevv"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2000 MB/s",
+        "Sequential Read (up to)": "3200 MB/s",
+        "Technology": "3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCI-Express 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "4096 GB SSD HIKSEMI FUTUREX - PCIe 4x4 NVMe M.2 2280 (HS-SSD-FUTUREX 4096G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024111316355672081_1.jpg",
+    "price": "9,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTUREX",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "700,000 IOPS",
+        "Random Read (up to)": "907,000 IOPS",
+        "Sequential Write (up to)": "6,500 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4096.00 GB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTUREX",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "700,000 IOPS",
+        "Random Read (up to)": "907,000 IOPS",
+        "Sequential Write (up to)": "6,500 MB/s",
+        "Sequential Read (up to)": "7,450 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "4096.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "256 GB SSD HIKSEMI WAVE PRO(P) - PCIe 3 NVMe M.2 2280 (HS-SSD-WAVE PRO(P) 256G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024101110075071251_1.jpg",
+    "price": "690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "Wave Pro(P)",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "210,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "1,240 MB/s",
+        "Sequential Read (up to)": "3,230 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "3 Years"
+      },
+      "model": {
+        "Model": "Wave Pro(P)",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "210,000 IOPS",
+        "Random Read (up to)": "195,000 IOPS",
+        "Sequential Write (up to)": "1,240 MB/s",
+        "Sequential Read (up to)": "3,230 MB/s",
+        "Technology": "3D TLC",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "3 Years"
+      }
+    }
+  },
+  {
+    "brand": "Lexar",
+    "title": "1 TB SSD LEXAR NM1090 - PCIe 5x4 NVMe M.2 2280 (LNM1090001T-RNANG)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024112914403372526_1.jpg",
+    "price": "7,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "NM1090",
+        "Brand": "Lexar",
+        "Random Write (up to)": "1,400,000 IOPS",
+        "Random Read (up to)": "1,300,000 IOPS",
+        "Sequential Write (up to)": "9,000 MB/s",
+        "Sequential Read (up to)": "11,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 5.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "NM1090",
+        "Brand": "Lexar"
+      },
+      "specification": {
+        "Random Write (up to)": "1,400,000 IOPS",
+        "Random Read (up to)": "1,300,000 IOPS",
+        "Sequential Write (up to)": "9,000 MB/s",
+        "Sequential Read (up to)": "11,500 MB/s",
+        "Technology": "-",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 5.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Klevv",
+    "title": "K256GM2SP0-C7T",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024121016214372822_1.jpg",
+    "price": "690",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "CRAS C715",
+        "Brand": "Klevv",
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2000 MB/s",
+        "Sequential Read (up to)": "3000 MB/s",
+        "Technology": "3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB",
+        "Interface": "PCI-Express 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "CRAS C715",
+        "Brand": "Klevv"
+      },
+      "specification": {
+        "Random Write (up to)": "- IOPS",
+        "Random Read (up to)": "- IOPS",
+        "Sequential Write (up to)": "2000 MB/s",
+        "Sequential Read (up to)": "3000 MB/s",
+        "Technology": "3D TLC NAND Flash",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "256.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCI-Express 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Adata",
+    "title": "512 GB SSD ADATA LEGEND 710 - PCIe 3x4 NVMe M.2 2280",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2024110815244871963_1.jpg",
+    "price": "1,590",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "LEGEND 710",
+        "Brand": "Adata",
+        "Random Write (up to)": "150,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB",
+        "Interface": "PCIe 3.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "LEGEND 710",
+        "Brand": "Adata"
+      },
+      "specification": {
+        "Random Write (up to)": "150,000 IOPS",
+        "Random Read (up to)": "200,000 IOPS",
+        "Sequential Write (up to)": "1,800 MB/s",
+        "Sequential Read (up to)": "2,400 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "512.00 GB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 3.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "1 TB SSD HIKSEMI FUTURE LITE - PCIe 4x4 NVMe M.2 2280 (HS-SSD-FUTURE LITE 1024G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2025021517064474454_1.jpg",
+    "price": "2,190",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE LITE",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "462,000 IOPS",
+        "Random Read (up to)": "915,000 IOPS",
+        "Sequential Write (up to)": "6,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE LITE",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "462,000 IOPS",
+        "Random Read (up to)": "915,000 IOPS",
+        "Sequential Write (up to)": "6,000 MB/s",
+        "Sequential Read (up to)": "7,000 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "1.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  },
+  {
+    "brand": "Hiksemi",
+    "title": "2 TB SSD HIKSEMI FUTURE LITE - PCIe 4x4 NVMe M.2 2280 (HS-SSD-FUTURE LITE 2048G)",
+    "imgUrl": "https://www.jib.co.th/img_master/product/medium/2025021517125374455_1.jpg",
+    "price": "3,990",
+    "specifications": {
+      "คุณสมบัติ": {
+        "Model": "FUTURE LITE",
+        "Brand": "Hiksemi",
+        "Random Write (up to)": "480,000 IOPS",
+        "Random Read (up to)": "875,000 IOPS",
+        "Sequential Write (up to)": "6,350 MB/s",
+        "Sequential Read (up to)": "7,100 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB",
+        "Interface": "PCIe 4.0",
+        "การรับประกัน": "5 Years"
+      },
+      "model": {
+        "Model": "FUTURE LITE",
+        "Brand": "Hiksemi"
+      },
+      "specification": {
+        "Random Write (up to)": "480,000 IOPS",
+        "Random Read (up to)": "875,000 IOPS",
+        "Sequential Write (up to)": "6,350 MB/s",
+        "Sequential Read (up to)": "7,100 MB/s",
+        "Technology": "3D NAND",
+        "ขนาด SSD": "22 x 80 mm",
+        "ความจุ": "2.00 TB"
+      },
+      "interface connector": {
+        "Interface": "PCIe 4.0"
+      },
+      "warranty": {
+        "การรับประกัน": "5 Years"
+      }
+    }
+  }
+]
