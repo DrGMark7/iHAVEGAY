@@ -33,7 +33,7 @@ const addProduct = (product, type, price) => {
                         <h2 class="card-title text-sm line-clamp-2">{{ product.title }}</h2>
                     </div>
                     <div class="card-actions justify-between ">
-                        <p class="text-xl font-bold">{{ product.price }} ฿</p>
+                        <p class="text-xl font-bold">{{ product.price.toLocaleString('th-TH') }} ฿</p>
                         <button @click="addProduct(product, props.products, product.price)" class="btn btn-primary btn-sm text-xl">+</button>
                     </div>
                 </div>

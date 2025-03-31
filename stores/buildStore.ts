@@ -2,26 +2,26 @@ import { defineStore } from 'pinia'
 
 interface BuildState {
   case: object
-  powerSupply: object
+  psu: object
   mainboard: object
   ram: object
-  vga: object
+  gpu: object
   ssd: object
   m2: object
   cpu: object,
   totalPrice: number,
   onSelect: string
 }
-type ComponentKey = 'case' | 'powerSupply' | 'mainboard' | 'ram' | 'vga' | 'ssd' | 'm2' | 'cpu';
+type ComponentKey = 'case' | 'psu' | 'mainboard' | 'ram' | 'gpu' | 'ssd' | 'm2' | 'cpu';
 
 
 export const useBuildStore = defineStore('build', {
   state: (): BuildState => ({
     case: {},
-    powerSupply: {},
+    psu: {},
     mainboard: {},
     ram: {},
-    vga: {},
+    gpu: {},
     ssd: {},
     m2: {},
     cpu: {},
@@ -36,34 +36,39 @@ export const useBuildStore = defineStore('build', {
   },
   
   actions: {
-    async selectProduct(path: string) {
+    async selectProduct(path: ComponentKey) {
+      if(path === 'mainboard' && this.cpu && typeof this.cpu === 'object' && this.cpu !== null){
+        const productStore = useProductStore()
+        const compatibleCpu = await productStore.compatibleCpu((this.cpu as any).cpu_id)
+        console.log("compatibleCpu", compatibleCpu)
+      }
       this.onSelect = path 
     },
-    async addProduct(product: object, type: ComponentKey, price: string) {
+    async addProduct(product: object, type: ComponentKey, price: number) {
         if(this[type] && typeof this[type] === 'object' && this[type] !== null){
-            const oldItem = this[type] as { price?: string };
+            const oldItem = this[type] as { price?: number };
             if (oldItem.price) {
-                this.totalPrice -= parseInt(oldItem.price.replace(/,/g, ""), 10)
+                this.totalPrice -= oldItem.price
             }
         }
       this[type] = product
-      this.totalPrice += parseInt(price.replace(/,/g, ""), 10)
+      this.totalPrice += price  
     },
     async removeProduct(type: ComponentKey) {
       if(this[type] && typeof this[type] === 'object' && this[type] !== null){
-        const oldItem = this[type] as { price?: string };
+        const oldItem = this[type] as { price?: number };
         if (oldItem.price) {
-          this.totalPrice -= parseInt(oldItem.price.replace(/,/g, ""), 10)
+          this.totalPrice -= oldItem.price
         }
       }
       this[type] = {}
     },
     async clearProduct() {
       this.case = {}
-      this.powerSupply = {}
+      this.psu = {}
       this.mainboard = {}
       this.ram = {}
-      this.vga = {}
+      this.gpu = {}
       this.ssd = {}
       this.m2 = {}
       this.cpu = {}

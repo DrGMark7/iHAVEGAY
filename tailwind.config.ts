@@ -24,6 +24,6 @@ export default {
   },
   plugins: [require('daisyui')],
   daisyui: {
-    themes: ['light', 'dark', 'synthwave', 'cyberpunk', 'cupcake'],
+    themes: ['light'],
   },
 } satisfies Config 

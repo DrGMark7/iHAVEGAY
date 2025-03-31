@@ -22,8 +22,8 @@ const menu = ref([
 </svg> `,
     },
     {
-        name: 'VGA',
-        path: 'vga',
+        name: 'GPU',
+        path: 'gpu',
         svg: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-gpu-card injected-svg" viewBox="0 0 16 16" data-src="https://ihcupload.s3.ap-southeast-1.amazonaws.com/img/icon/gpu-card.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M4 8a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0m7.5-1.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3"></path>
   <path d="M0 1.5A.5.5 0 0 1 .5 1h1a.5.5 0 0 1 .5.5V4h13.5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-.5.5H2v2.5a.5.5 0 0 1-1 0V2H.5a.5.5 0 0 1-.5-.5m5.5 4a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M9 8a2.5 2.5 0 1 0 5 0 2.5 2.5 0 0 0-5 0"></path>
@@ -58,7 +58,7 @@ const menu = ref([
     ,
     {
         name: 'PowerSupply',
-        path: 'powerSupply',
+        path: 'psu',
         svg: `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-safe2 injected-svg" viewBox="0 0 16 16" data-src="https://ihcupload.s3.ap-southeast-1.amazonaws.com/img/icon/safe2.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M1 2.5A1.5 1.5 0 0 1 2.5 1h12A1.5 1.5 0 0 1 16 2.5v12a1.5 1.5 0 0 1-1.5 1.5h-12A1.5 1.5 0 0 1 1 14.5V14H.5a.5.5 0 0 1 0-1H1V9H.5a.5.5 0 0 1 0-1H1V4H.5a.5.5 0 0 1 0-1H1zM2.5 2a.5.5 0 0 0-.5.5v12a.5.5 0 0 0 .5.5h12a.5.5 0 0 0 .5-.5v-12a.5.5 0 0 0-.5-.5z"></path>
   <path d="M5.035 8h1.528q.072-.277.214-.516l-1.08-1.08A3.5 3.5 0 0 0 5.035 8m1.369-2.303 1.08 1.08q.24-.142.516-.214V5.035a3.5 3.5 0 0 0-1.596.662M9 5.035v1.528q.277.072.516.214l1.08-1.08A3.5 3.5 0 0 0 9 5.035m2.303 1.369-1.08 1.08q.142.24.214.516h1.528a3.5 3.5 0 0 0-.662-1.596M11.965 9h-1.528q-.072.277-.214.516l1.08 1.08A3.5 3.5 0 0 0 11.965 9m-1.369 2.303-1.08-1.08q-.24.142-.516.214v1.528a3.5 3.5 0 0 0 1.596-.662M8 11.965v-1.528a2 2 0 0 1-.516-.214l-1.08 1.08A3.5 3.5 0 0 0 8 11.965m-2.303-1.369 1.08-1.08A2 2 0 0 1 6.563 9H5.035c.085.593.319 1.138.662 1.596M4 8.5a4.5 4.5 0 1 1 9 0 4.5 4.5 0 0 1-9 0m4.5-1a1 1 0 1 0 0 2 1 1 0 0 0 0-2"></path>
@@ -83,12 +83,13 @@ function formatNumber(num) {
 </script>
 
 <template>
-    <div class="bg-base-100 rounded-xl p-4 flex flex-col gap-4 rounded-2xl">
+    <div class="bg-base-100 rounded-xl p-4 flex flex-col gap-4 rounded-2xl ">
         <div class="flex justify-between items-center">
             <p class="text-lg font-bold">ยอดรวมทั้งสิ้น</p>
             <p class="text-lg font-bold text-primary">{{ formatNumber(buildStoreToRefs.totalPrice.value) }} ฿</p>
         </div>
-        <button v-for="item in menu"  @click="selectProduct(item.path)"class="hover:bg-base-300 bg-base-200 p-5 rounded-2xl">
+        <div class="max-h-[600px] overflow-y-auto">
+            <div v-for="item in menu"  @click="selectProduct(item.path)"class="hover:bg-base-300 bg-base-200 p-5 rounded-2xl mb-2">
             <div v-if="!buildStore.isComponentSelected(item.path)" class="flex items-center gap-2  text-lg">
                 <div class="font-bold" v-html="item.svg"></div>
                 <p class="font-bold">{{ item.name }}</p>
@@ -96,7 +97,7 @@ function formatNumber(num) {
             <div v-else>
                 <span class="flex justify-between mb-2">
                     <span class="font-bold">{{ item.name }}</span>
-                    <span class="font-bold">{{ buildStore[item.path]?.price }} ฿</span>
+                    <span class="font-bold">{{ buildStore[item.path]?.price.toLocaleString('th-TH') }} ฿</span>
                 </span>
                 <span class="flex gap-1">
                     <img :src="buildStore[item.path]?.imgUrl" class="w-12" :alt="buildStore[item.path]?.title">
@@ -110,12 +111,13 @@ function formatNumber(num) {
                     </button>
                 </span>
             </div>
-        </button>
+            </div>
+        </div>
         <div class="flex flex-col gap-2">
-            <button class="btn btn-primary">สั่งประกอบ</button>
+            <NuxtLink to="/checkout" class="btn btn-primary">สั่งประกอบ</NuxtLink>
             <button @click="buildStore.clearProduct()" class="btn">รีเซ็ต</button>
 
         </div>
     </div>
-
+  
 </template>

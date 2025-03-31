@@ -1,32 +1,22 @@
 import { defineStore } from 'pinia'
+import type { ProductState, ProductResponse, Product } from '~/types/product'
 
-interface ProductState {
-  case: object[]
-  powerSupply: object[]
-  mainboard: object[]
-  ram: object[]
-  vga: object[]
-  ssd: object[]
-  m2: object[]
-  cpu: object[]
-}
 
-interface ProductResponse {
-  success: boolean
-  data: object[]
-  message: string
-}
+
 
 export const useProductStore = defineStore('product', {
   state: (): ProductState => ({
     case: [],
-    powerSupply: [],
+    psu: [],
     mainboard: [],
     ram: [],
-    vga: [],
+    gpu: [],
     ssd: [],
     m2: [],
     cpu: [],
+    bestSeller: [],
+    recommend: [],
+    bestPair: []
   }),
   
   actions: {
@@ -48,16 +38,16 @@ export const useProductStore = defineStore('product', {
       }
     },
     
-    async loadPowerSupply(){
-      if (this.powerSupply.length !== 0) return this.powerSupply
+    async loadPsu(){
+      if (this.psu.length !== 0) return this.psu
       try {
         const res = await $fetch('/api/getProducts', {
-          query: { type: 'powerSupply' }
+          query: { type: 'psu' }
         })
         const data = res as ProductResponse
         if (data.success) {
-          this.powerSupply = data.data as object[]
-          return this.powerSupply
+          this.psu = data.data as object[]
+          return this.psu
         }
         return []
       } catch (error) {
@@ -102,16 +92,16 @@ export const useProductStore = defineStore('product', {
       }
     },
     
-    async loadVga(){
-      if (this.vga.length !== 0) return this.vga
+    async loadGpu(){
+      if (this.gpu.length !== 0) return this.gpu
       try {
         const res = await $fetch('/api/getProducts', {
-          query: { type: 'vga' }
+          query: { type: 'gpu' }
         })
         const data = res as ProductResponse
         if (data.success) {
-          this.vga = data.data as object[]
-          return this.vga
+          this.gpu = data.data as object[]
+          return this.gpu
         }
         return []
       } catch (error) {
@@ -164,7 +154,7 @@ export const useProductStore = defineStore('product', {
         })
         const data = res as ProductResponse
         if (data.success) {
-          this.cpu = data.data as object[]
+          this.cpu = data.data as Product[]
           return this.cpu
         }
         return []
@@ -173,16 +163,85 @@ export const useProductStore = defineStore('product', {
         return []
       }
     },
+    async compatibleCpu(cpu_id: string){
+      if(!cpu_id) return
+      const config = useRuntimeConfig()
+      const res = await $fetch(`${config.public.apiUrl}api/v1/admin/products/compatible-mainboards/${cpu_id}`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+      const data = res as any
+      this.mainboard = data
+      return data
+    },
+    async loadBestSeller(){
+      if(this.bestSeller.length !== 0) return this.bestSeller
+      const config = useRuntimeConfig()
+      const res = await $fetch(`${config.public.apiUrl}api/v1/admin/products/top-selling?limit=8`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+      const data = res as any
+      this.bestSeller = data
+      return this.bestSeller
+    },
+    async loadRecommend(){
+      if(this.recommend.length !== 0) return this.recommend
+      const config = useRuntimeConfig()
+      const res = await $fetch(`${config.public.apiUrl}api/v1/admin/products/recommended?limit=8`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+      const data = res as any
+      this.recommend = data
+      return this.recommend
+    },
+    async loadByPriceRange(min: number, max: number, type: string){
+      const config = useRuntimeConfig()
+      const res = await $fetch(`${config.public.apiUrl}api/v1/admin/products/price-range?category=${type.toUpperCase()}&min_price=${min}&max_price=${max}&limit=20`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+      const data = res as any
+      this[type] = data.sort((a: any, b: any) => a.price - b.price)
+      return this[type]
+    },
+    async loadBestPair(){
+      if(this.bestPair.length !== 0) return this.bestPair
+      const config = useRuntimeConfig()
+      const res = await $fetch(`${config.public.apiUrl}api/v1/admin/analytics/frequently-bought-together?limit=20`, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        }
+      })
+      const data = res as any
+      this.bestPair = data
+      return this.bestPair
+    },
   
-    async loadAllProducts(){
-      await this.loadCase()
-      await this.loadPowerSupply()
-      await this.loadMainboard()
-      await this.loadRam()
-      await this.loadVga()
-      await this.loadSsd()
-      await this.loadM2()
-      await this.loadCpu()
+    async loadAllProducts() {
+      await Promise.all([
+        this.loadCase(),
+        this.loadPsu(),
+        this.loadMainboard(),
+        this.loadRam(),
+        this.loadGpu(),
+        this.loadSsd(),
+        this.loadM2(),
+        this.loadCpu(),
+        this.loadBestSeller(),
+        this.loadRecommend(),
+        this.loadBestPair()
+      ])
     }
   }
 })
